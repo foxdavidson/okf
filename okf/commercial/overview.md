@@ -1,41 +1,54 @@
 ---
 type: Service Hub
-title: Commercial Mortgages UK 2026 | Specialist Broker | FD
-description: "UK commercial mortgages. £250k to £250m+. Owner-occupier, HNW investor, semi-commercial, large commercial. Senior broker, Bristol HQ."
+title: "Commercial Mortgages UK | Fee-Free Commercial Brokers"
+description: "Commercial mortgages from £250,000 for owner-occupiers, investors and semi-commercial property. Fee-free broker with whole of market access."
 resource: https://www.foxdavidson.co.uk/commercial/
-tags: [commercial, overview]
-timestamp: 2026-06-11T19:01:50+00:00
+tags: [commercial]
+timestamp: 2026-11-02T14:51:48+00:00
 ---
 
-UK commercial mortgages. £250k to £250m+. Owner-occupier, HNW investor, semi-commercial, large commercial. Senior broker, Bristol HQ.
+Commercial mortgages from £250,000 for owner-occupiers, investors and semi-commercial property. Fee-free broker with whole of market access.
 
 # Details
 
-- **Provider:** [Fox Davidson](/home.md), a UK mortgage and property finance broker (Bristol, Bath, Exeter and London).
+- **Provider:** [Fox Davidson](/home.md), a whole of market UK mortgage and property finance broker (Bristol, Bath, Exeter and London), FCA FRN 1056214.
 - **Concept type:** Service Hub
 - **Live page:** <https://www.foxdavidson.co.uk/commercial/>
 - **Part of:** [Fox Davidson](/home.md)
 
 # In this section
 
-* [80% LTV Commercial Mortgages](/commercial/80-ltv-commercial-mortgages.md) - Commercial mortgages at 80% LTV from £250,000. Which lenders go above 75%, the sectors that qualify and what the underwriting requires.
-* [Commercial Finance for Business Premises UK](/commercial/commercial-finance-for-business-premises.md) - UK owner-occupier commercial finance for businesses buying their own trading premises. Professional, industrial, retail, healthcare. From £250,000.
-* [Commercial Mortgage Broker Bristol](/commercial/commercial-mortgage-broker-bristol.md) - Bristol commercial mortgage broker. Offices, industrial, retail and semi-commercial from £250,000. Face-to-face in Bristol, lending UK-wide.
-* [Commercial Mortgage Broker UK 2026](/commercial/commercial-mortgage-broker.md) - UK commercial mortgage broker for HNW investors, property professionals and owner-occupiers. From £250,000 to £100m plus. Full market access.
-* [Commercial Mortgages for Accountants](/commercial/commercial-mortgage-for-accountants.md) - Commercial mortgages for accountancy practices from £250,000. Recurring fee income underwriting, up to 100% LTV on strong practices.
-* [Commercial Mortgages for MBOs](/commercial/commercial-mortgages-for-management-buyouts-mbos.md) - The property finance element of management buyouts from £250,000, structured alongside corporate finance advisers within the funding stack.
-* [Commercial Mortgages for Solicitors](/commercial/commercial-mortgage-for-solicitors.md) - Commercial mortgages for law firms from £250,000. Partnership and LLP structures, up to 100% LTV on strong practices, no broker fee.
-* [Data Centre Commercial Mortgages UK](/commercial/data-centre-mortgages.md) - Commercial mortgages on UK data centres from £1m. DSCR 1.25x+, up to 75% LTV on hyperscale-tenanted assets, MSA-led underwriting.
-* [Dental Practice Mortgages | 100% LTV](/commercial/dental-practice-mortgage.md) - Commercial mortgages for dental practices from £250,000. Up to 100% LTV for NHS practices. Healthcare lenders who underwrite contract income.
-* [GP Surgery & Doctor Mortgages](/commercial/commercial-mortgage-for-doctors.md) - Commercial mortgages for doctors and GP surgeries from £250,000. NHS income underwriting, notional rent, partner buy-ins. Up to 100% LTV.
-* [Industrial & Warehouse Mortgages](/commercial/industrial-and-warehouse-mortgages.md) - Commercial mortgages on industrial units, warehouses and logistics space from £250,000. Owner-occupier and investment. Up to 75% LTV.
-* [Large Commercial Mortgages | From £1m](/commercial/large-commercial-mortgages.md) - Large commercial mortgages from £1m to £250m+. Offices, industrial, retail and portfolios. Clearing banks to debt funds, up to 80% LTV.
-* [Owner-Occupier Commercial Mortgages](/commercial/owner-occupier-commercial-mortgages.md) - Commercial mortgages for trading businesses buying their premises from £250,000. EBITDA underwriting, up to 80% LTV, 100% for professional practices.
-* [SIPP SSAS Commercial Property Mortgages UK 2026 | FD](/commercial/sipp-commercial-property-mortgage.md) - UK SIPP and SSAS commercial property mortgage lenders, rates and HMRC rules in 2026. Pension trustee purchase of trading premises. £1m to £250m+
-* [Semi-Commercial Mortgages UK 2026 | No Broker Fees](/commercial/semi-commercial-mortgages.md) - UK semi-commercial mortgage lenders, rates & LTVs in 2026. Shop with flat, mixed-use HNW, owner-occupier. £250,000 to £250m+. Senior broker, Bristol HQ.
-* [Student Accommodation Mortgages | PBSA](/commercial/student-accommodation-mortgage.md) - PBSA and student property finance from £250,000. Purpose-built blocks and student HMOs with specialist lenders. Up to 75% LTV.
-* [Veterinary Practice Mortgages](/commercial/commercial-mortgage-for-veterinary-practices.md) - Commercial mortgages for veterinary practices from £250,000. Purchase, refinance and expansion with lenders who understand practice income.
+* [80% LTV Commercial Mortgages UK | Maximum LTV Explained](/commercial/80-ltv-commercial-mortgages.md) - The maximum loan to value on a UK commercial mortgage is usually 65% to 75%. 80% LTV is open to owner-occupiers and practices. No broker fee on most cases.
+* [Agricultural Mortgages UK | Farm Finance Broker](/commercial/agricultural-mortgages.md) - Agricultural mortgages from £250,000 for farms and estates in England, Scotland and Wales. Terms up to 30 years, interest-only options, no broker fee.
+* [Business Mortgages For Trading Premises](/commercial/business-mortgages.md) - Business mortgages up to 80% LTV over 30 years, tested on adjusted EBITDA at 125% to 165% cover. What lenders need, rates and costs for premises in 2026.
+* [Care Home Finance | From £1m](/commercial/care-home-finance.md) - Care home mortgages. Operators with Good / Outstanding CQC ratings. From £1m. Up to 75% LTV. First-time operators considered. No broker fee.
+* [Commercial Investment Mortgages | Commercial Buy To Let](/commercial/commercial-investment-mortgages.md) - Commercial investment mortgages from £250,000 on let shops, offices, industrial and mixed use property. 60% to 75% LTV, SPV lending, no broker fee.
+* [Commercial Mortgage Broker In Bristol](/commercial/commercial-mortgage-broker-bristol.md) - Bristol commercial mortgage broker on Orchard Street, BS1. Commercial mortgages, bridging and development finance from £250,000. Fee-free.
+* [Commercial Mortgage Broker Surrey 2026](/commercial/commercial-mortgage-broker-surrey.md) - Specialist commercial mortgage broker for Surrey. Commercial, semi-commercial, development and bridging finance across Guildford, Woking and Elmbridge.
+* [Commercial Mortgage For Accountants](/commercial/commercial-mortgage-for-accountants.md) - We specialise in commercial mortgages for professionals including commercial mortgage for accountants acquiring office premises to trade from.
+* [Commercial Mortgage For Dental Practice | Up To 100% LTV](/commercial/dental-practice-mortgage.md) - Fox Davidson arranges commercial mortgages for dentists buying surgery premises. Up to 100% LTV for qualifying practices. No broker fee.
+* [Commercial Mortgage For Doctors | GP Surgery](/commercial/commercial-mortgage-for-doctors.md) - Fox Davidson arranges commercial mortgages for GPs, dentists and pharmacists buying surgery or practice premises. From £250,000. Fee-free
+* [Commercial Mortgage For Solicitors](/commercial/commercial-mortgage-for-solicitors.md) - Fox Davidson arranges commercial mortgages for solicitors buying or refinancing law firm premises. Up to 80% LTV. No broker fee
+* [Commercial Mortgage For Veterinary Practices](/commercial/commercial-mortgage-for-veterinary-practices.md) - Fox Davidson specialise in commercial mortgages for professionals needing funding for practice premises. Mortgages for Veterinary Practices.
+* [Commercial Mortgages UK: What They Are, Deposits And Rates](/commercial/what-is-a-commercial-mortgage.md) - What a commercial mortgage is, the deposit you need, rates as at October 2026 and how lenders test DSCR and ICR. From £250,000, England, Scotland, Wales.
+* [Commercial Property Loans & Finance UK](/commercial/commercial-property-finance.md) - Commercial property lending from £250,000: purchase, refinance, capital raise, portfolio, semi-commercial and land. Lenders, LTV, ICR and Oct 2026 rates.
+* [Commercial Property Loans UK 2026: Lenders And Costs](/commercial/commercial-property-loans.md) - Commercial property loans from £250,000 at 55% to 80% LTV over terms up to 30 years. Lender types, costs and how rent or profit caps the loan in 2026.
+* [Commercial Remortgage UK | Refinance Commercial Property](/commercial/commercial-remortgage.md) - Commercial remortgages from £250,000. Release equity, escape a reversion rate or exit a bridge, up to 75% LTV, owner-occupier and investment property.
+* [Data Centre Commercial Mortgages UK 2026](/commercial/data-centre-mortgages.md) - Specialist commercial mortgages for UK data centre operators and investors from £250k. DSCR-led terms, up to 70% LTV, MSA-backed underwriting.
+* [Hotel Mortgages & Hotel Finance UK | Fee-Free Broker](/commercial/hotel-mortgages.md) - Commercial mortgages for UK hotels. EBITDA-based valuations, 60-70% LTV, owner-operator and investment lending, and routes to 100% with security.
+* [Industrial And Warehouse Mortgages](/commercial/industrial-and-warehouse-mortgages.md) - Commercial mortgage finance for industrial units, warehouses and trade counters. Owner-occupier and investment. From £250,000. No broker fees.
+* [Land Mortgages And Commercial Land Loans](/commercial/land-mortgages.md) - Land mortgages run at about 40% to 65% LTV depending on planning. How lenders value land, term loans versus bridging, and finance from £250,000.
+* [Large Commercial Mortgages | From £1m](/commercial/large-commercial-mortgages.md) - Finance large commercial property from £1,000,000. We arrange specialist lending for offices, industrial estates, retail parks, and mixed-use. No fee.
+* [Management Buyout Finance UK | MBO Commercial Mortgages](/commercial/commercial-mortgages-for-management-buyouts-mbos.md) - Commercial mortgages for management buyouts since 2005. UK Commercial mortgages for MBO's - Lending from £250,000 to £100 Million +
+* [Offshore Company Commercial Mortgage UK | From £250k](/commercial/offshore-company-commercial-mortgage.md) - UK commercial mortgages for offshore companies and trusts from £250k. Jurisdictions accepted, ATED, corporate SDLT and ROE.
+* [Owner-Occupier Commercial Mortgages](/commercial/commercial-finance-for-business-premises.md) - Buy the property your business trades from. No broker fee. Dental & Doctor practices, offices, warehouses, care homes.
+* [Pub Mortgages UK | Freehold Pub Finance Broker](/commercial/pub-mortgages.md) - Pub mortgages from £250,000 to buy or refinance a freehold pub or inn. 50% to 70% LTV, valued on trade, first-time operators considered. No broker fee.
+* [Sale And Leaseback For Businesses Explained](/commercial/sale-and-leaseback.md) - Sale and leaseback releases up to 100% of your premises value against 70% to 80% from a remortgage. How it works, rent setting, tax points and finance.
+* [Secured Business Loans UK | Property Secured Lending](/commercial/secured-business-loans.md) - Secured business loans from £250,000 on property for working capital, acquisitions, tax bills and MBOs. First or second charge, England, Scotland, Wales.
+* [Semi Commercial Mortgage UK | 80% LTV | Fee-Free Broker](/commercial/semi-commercial-mortgages.md) - Semi commercial mortgage finance for shops with flats above and other mixed-use property. Up to 80% LTV from £250,000, no broker fee on most cases.
+* [SIPP And SSAS Commercial Mortgages: Pension Property Loans](/commercial/sipp-commercial-property-mortgage.md) - SIPP and SSAS commercial mortgages from £250,000. HMRC 50% borrowing cap, buying your company's premises, market rent, VAT, lenders and a worked example.
+* [Student Accommodation Mortgage | PBSA Investment Finance](/commercial/student-accommodation-mortgage.md) - Long-term commercial mortgage finance for purpose-built student accommodation and student HMOs. PBSA investment loans. No broker fees.
 
 # Citations
 
-[1] [Commercial Mortgages UK 2026 | Specialist Broker | FD](https://www.foxdavidson.co.uk/commercial/) - Fox Davidson
+[1] [Commercial Mortgages UK | Fee-Free Commercial Brokers](https://www.foxdavidson.co.uk/commercial/) - Fox Davidson

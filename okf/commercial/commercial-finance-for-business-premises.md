@@ -1,21 +1,21 @@
 ---
-type: Service Page
-title: Commercial Finance for Business Premises UK
-description: "UK owner-occupier commercial finance for businesses buying their own trading premises. Professional, industrial, retail, healthcare. From £250,000."
+type: Service
+title: "Owner-Occupier Commercial Mortgages"
+description: "Buy the property your business trades from. No broker fee. Dental & Doctor practices, offices, warehouses, care homes."
 resource: https://www.foxdavidson.co.uk/commercial/commercial-finance-for-business-premises/
-tags: [commercial, finance, business, premises]
-timestamp: 2026-06-05T12:24:24+00:00
+tags: [commercial, commercial, finance, for, business, premises]
+timestamp: 2026-11-02T14:52:12+00:00
 ---
 
-UK owner-occupier commercial finance for businesses buying their own trading premises. Professional, industrial, retail, healthcare. From £250,000.
+Buy the property your business trades from. No broker fee. Dental & Doctor practices, offices, warehouses, care homes.
 
 # Details
 
-- **Provider:** [Fox Davidson](/home.md), a UK mortgage and property finance broker (Bristol, Bath, Exeter and London).
-- **Concept type:** Service Page
+- **Provider:** [Fox Davidson](/home.md), a whole of market UK mortgage and property finance broker (Bristol, Bath, Exeter and London), FCA FRN 1056214.
+- **Concept type:** Service
 - **Live page:** <https://www.foxdavidson.co.uk/commercial/commercial-finance-for-business-premises/>
-- **Part of:** [Commercial mortgages](/commercial/overview.md)
+- **Part of:** [Commercial Mortgages UK | Fee-Free Commercial Brokers](/commercial/overview.md)
 
 # Citations
 
-[1] [Commercial Finance for Business Premises UK](https://www.foxdavidson.co.uk/commercial/commercial-finance-for-business-premises/) - Fox Davidson
+[1] [Owner-Occupier Commercial Mortgages](https://www.foxdavidson.co.uk/commercial/commercial-finance-for-business-premises/) - Fox Davidson

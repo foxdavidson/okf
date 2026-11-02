@@ -1,21 +1,21 @@
 ---
-type: Service Page
-title: 6 Month Bridging Loans UK
-description: "Bridging loans with 6-month terms from £250,000. Pay interest only for the days you borrow. Chain breaks, auctions and fast refinances."
+type: Service
+title: "6 Month Bridging Loan UK | Fast, Flexible Finance"
+description: "Need a 6 month bridging loan? Fast, flexible short-term bridging finance for property purchases, renovations & chain breaks. Fee-free advice."
 resource: https://www.foxdavidson.co.uk/bridging-loans/bridging-loan-for-6-months/
-tags: [bridging-loans, bridging, loan, 6, months]
-timestamp: 2026-06-11T15:10:51+00:00
+tags: [bridging, loans, bridging, loan, for, months]
+timestamp: 2026-11-02T14:51:54+00:00
 ---
 
-Bridging loans with 6-month terms from £250,000. Pay interest only for the days you borrow. Chain breaks, auctions and fast refinances.
+Need a 6 month bridging loan? Fast, flexible short-term bridging finance for property purchases, renovations & chain breaks. Fee-free advice.
 
 # Details
 
-- **Provider:** [Fox Davidson](/home.md), a UK mortgage and property finance broker (Bristol, Bath, Exeter and London).
-- **Concept type:** Service Page
+- **Provider:** [Fox Davidson](/home.md), a whole of market UK mortgage and property finance broker (Bristol, Bath, Exeter and London), FCA FRN 1056214.
+- **Concept type:** Service
 - **Live page:** <https://www.foxdavidson.co.uk/bridging-loans/bridging-loan-for-6-months/>
-- **Part of:** [Bridging finance](/bridging-loans/overview.md)
+- **Part of:** [Bridging Loans & Bridging Finance UK | Fee-Free Brokers](/bridging-loans/overview.md)
 
 # Citations
 
-[1] [6 Month Bridging Loans UK](https://www.foxdavidson.co.uk/bridging-loans/bridging-loan-for-6-months/) - Fox Davidson
+[1] [6 Month Bridging Loan UK | Fast, Flexible Finance](https://www.foxdavidson.co.uk/bridging-loans/bridging-loan-for-6-months/) - Fox Davidson

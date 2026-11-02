@@ -1,20 +1,20 @@
 ---
 type: Case Study
-title: Mortgage for Shareholder Ahead of IPO
-description: "Our client wanted to purchase his dream home, but required a lender who would loan on the basis of a future IPO. Read on to find out how we managed to secure funding for our client"
+title: "Mortgage for Shareholder Ahead of IPO"
+description: "How we secured a residential mortgage for a company shareholder ahead of an IPO, with a lender prepared to consider future share value."
 resource: https://www.foxdavidson.co.uk/case-studies/residential-mortgage-for-company-shareholder-ipo/
-tags: [case-studies, residential, company, shareholder, ipo]
-timestamp: 2026-04-27T17:02:42+00:00
+tags: [case, studies, residential, mortgage, for, company]
+timestamp: 2026-10-20T20:15:42+00:00
 ---
 
-Our client wanted to purchase his dream home, but required a lender who would loan on the basis of a future IPO. Read on to find out how we managed to secure funding for our client
+How we secured a residential mortgage for a company shareholder ahead of an IPO, with a lender prepared to consider future share value.
 
 # Details
 
-- **Provider:** [Fox Davidson](/home.md), a UK mortgage and property finance broker (Bristol, Bath, Exeter and London).
+- **Provider:** [Fox Davidson](/home.md), a whole of market UK mortgage and property finance broker (Bristol, Bath, Exeter and London), FCA FRN 1056214.
 - **Concept type:** Case Study
 - **Live page:** <https://www.foxdavidson.co.uk/case-studies/residential-mortgage-for-company-shareholder-ipo/>
-- **Part of:** [Case studies](/case-studies/overview.md)
+- **Part of:** [Mortgage Case Studies | Completed Deals](/case-studies/overview.md)
 
 # Citations
 

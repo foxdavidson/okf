@@ -1,20 +1,20 @@
 ---
 type: Case Study
-title: £4m Let to Buy for Investment Banker
-description: A Client Purchasing a Property in a Nearby Postcode for a Better School Catchment Area Looking to Let & Remortgage Their Current Property to Raise Funds - Large Loan Value.
+title: "£4m Let to Buy for Investment Banker"
+description: "How an investment banker in Richmond used let to buy to keep their existing home, raise funds and purchase in a better school catchment."
 resource: https://www.foxdavidson.co.uk/case-studies/let-to-buy-investment-banker-richmond/
-tags: [case-studies, let, buy, investment, banker]
-timestamp: 2026-04-27T16:38:20+00:00
+tags: [case, studies, let, to, buy, investment]
+timestamp: 2026-10-20T20:15:45+00:00
 ---
 
-A Client Purchasing a Property in a Nearby Postcode for a Better School Catchment Area Looking to Let & Remortgage Their Current Property to Raise Funds - Large Loan Value.
+How an investment banker in Richmond used let to buy to keep their existing home, raise funds and purchase in a better school catchment.
 
 # Details
 
-- **Provider:** [Fox Davidson](/home.md), a UK mortgage and property finance broker (Bristol, Bath, Exeter and London).
+- **Provider:** [Fox Davidson](/home.md), a whole of market UK mortgage and property finance broker (Bristol, Bath, Exeter and London), FCA FRN 1056214.
 - **Concept type:** Case Study
 - **Live page:** <https://www.foxdavidson.co.uk/case-studies/let-to-buy-investment-banker-richmond/>
-- **Part of:** [Case studies](/case-studies/overview.md)
+- **Part of:** [Mortgage Case Studies | Completed Deals](/case-studies/overview.md)
 
 # Citations
 

@@ -1,21 +1,21 @@
 ---
-type: Finance Guide
-title: "Holiday Let Regulations 2026: Tax, Planning & Registration"
-description: "UK holiday let rules for 2026. FHL abolition, mandatory registration, C5 planning class, safety standards, and mortgage requirements."
+type: Article
+title: "Holiday Let Regulations 2026: Registers, Tax and Levies"
+description: "England's short-let register is due by March 2027 and Wales needs you registered by 31 March 2027. FHL tax, Section 24, levies and planning explained."
 resource: https://www.foxdavidson.co.uk/2026/04/28/holiday-let-regulations-2026/
-tags: [guides, holiday, let, regulations]
-timestamp: 2026-06-05T05:40:35+00:00
+tags: [holiday, let, regulations]
+timestamp: 2026-10-29T08:47:03+00:00
 ---
 
-UK holiday let rules for 2026. FHL abolition, mandatory registration, C5 planning class, safety standards, and mortgage requirements.
+England's short-let register is due by March 2027 and Wales needs you registered by 31 March 2027. FHL tax, Section 24, levies and planning explained.
 
 # Details
 
-- **Provider:** [Fox Davidson](/home.md), a UK mortgage and property finance broker (Bristol, Bath, Exeter and London).
-- **Concept type:** Finance Guide
+- **Provider:** [Fox Davidson](/home.md), a whole of market UK mortgage and property finance broker (Bristol, Bath, Exeter and London), FCA FRN 1056214.
+- **Concept type:** Article
 - **Live page:** <https://www.foxdavidson.co.uk/2026/04/28/holiday-let-regulations-2026/>
-- **Part of:** [Guides & insights](/guides/overview.md)
+- **Part of:** [Guides & insights](/guides/index.md)
 
 # Citations
 
-[1] [Holiday Let Regulations 2026: Tax, Planning & Registration](https://www.foxdavidson.co.uk/2026/04/28/holiday-let-regulations-2026/) - Fox Davidson
+[1] [Holiday Let Regulations 2026: Registers, Tax and Levies](https://www.foxdavidson.co.uk/2026/04/28/holiday-let-regulations-2026/) - Fox Davidson

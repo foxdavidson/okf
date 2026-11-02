@@ -1,20 +1,20 @@
 ---
 type: Calculator
-title: HNW Mortgage Qualification Calculator
-description: Check if you qualify as a high net worth mortgage customer under FCA MCOB 3A. £300k income OR £3m net assets. Primary residence included.
+title: "HNW Mortgage Qualification Calculator"
+description: "Check if you qualify as a high net worth mortgage customer under the FCA HNW test. £300k income OR £3m net assets. Primary residence included."
 resource: https://www.foxdavidson.co.uk/calculators/hnw-mortgage-qualification-calculator/
-tags: [calculators, hnw, qualification, calculator]
-timestamp: 2026-05-29T06:50:45+00:00
+tags: [calculators, hnw, mortgage, qualification, calculator]
+timestamp: 2026-10-27T19:10:38+00:00
 ---
 
-Check if you qualify as a high net worth mortgage customer under FCA MCOB 3A. £300k income OR £3m net assets. Primary residence included.
+Check if you qualify as a high net worth mortgage customer under the FCA HNW test. £300k income OR £3m net assets. Primary residence included.
 
 # Details
 
-- **Provider:** [Fox Davidson](/home.md), a UK mortgage and property finance broker (Bristol, Bath, Exeter and London).
+- **Provider:** [Fox Davidson](/home.md), a whole of market UK mortgage and property finance broker (Bristol, Bath, Exeter and London), FCA FRN 1056214.
 - **Concept type:** Calculator
 - **Live page:** <https://www.foxdavidson.co.uk/calculators/hnw-mortgage-qualification-calculator/>
-- **Part of:** [Calculators & tools](/calculators/overview.md)
+- **Part of:** [UK Mortgage and Stamp Duty Calculators](/calculators/overview.md)
 
 # Citations
 

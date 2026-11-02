@@ -1,21 +1,21 @@
 ---
-type: Service Page
-title: Commercial Mortgages for Solicitors
-description: "Commercial mortgages for law firms from £250,000. Partnership and LLP structures, up to 100% LTV on strong practices, no broker fee."
+type: Service
+title: "Commercial Mortgage For Solicitors"
+description: "Fox Davidson arranges commercial mortgages for solicitors buying or refinancing law firm premises. Up to 80% LTV. No broker fee"
 resource: https://www.foxdavidson.co.uk/commercial/commercial-mortgage-for-solicitors/
-tags: [commercial, solicitors]
-timestamp: 2026-06-11T15:11:37+00:00
+tags: [commercial, commercial, mortgage, for, solicitors]
+timestamp: 2026-11-02T14:52:07+00:00
 ---
 
-Commercial mortgages for law firms from £250,000. Partnership and LLP structures, up to 100% LTV on strong practices, no broker fee.
+Fox Davidson arranges commercial mortgages for solicitors buying or refinancing law firm premises. Up to 80% LTV. No broker fee
 
 # Details
 
-- **Provider:** [Fox Davidson](/home.md), a UK mortgage and property finance broker (Bristol, Bath, Exeter and London).
-- **Concept type:** Service Page
+- **Provider:** [Fox Davidson](/home.md), a whole of market UK mortgage and property finance broker (Bristol, Bath, Exeter and London), FCA FRN 1056214.
+- **Concept type:** Service
 - **Live page:** <https://www.foxdavidson.co.uk/commercial/commercial-mortgage-for-solicitors/>
-- **Part of:** [Commercial mortgages](/commercial/overview.md)
+- **Part of:** [Commercial Mortgages UK | Fee-Free Commercial Brokers](/commercial/overview.md)
 
 # Citations
 
-[1] [Commercial Mortgages for Solicitors](https://www.foxdavidson.co.uk/commercial/commercial-mortgage-for-solicitors/) - Fox Davidson
+[1] [Commercial Mortgage For Solicitors](https://www.foxdavidson.co.uk/commercial/commercial-mortgage-for-solicitors/) - Fox Davidson

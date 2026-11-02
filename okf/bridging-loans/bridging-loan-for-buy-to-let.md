@@ -1,21 +1,21 @@
 ---
-type: Service Page
-title: Bridging Loans for Buy-to-Let
-description: "Bridge-to-let from £250,000: auction purchases, unmortgageable property and tight deadlines, refinanced onto a BTL mortgage once tenanted."
+type: Service
+title: "Bridge To Let Loans UK | Fee-Free Bridging For Buy To Let"
+description: "Bridge to let loans from £250,000: a bridging loan to buy or refurbish an investment property, repaid by a buy-to-let mortgage. Fee-free on most cases."
 resource: https://www.foxdavidson.co.uk/bridging-loans/bridging-loan-for-buy-to-let/
-tags: [bridging-loans, bridging, loan, buy, let]
-timestamp: 2026-06-11T15:10:51+00:00
+tags: [bridging, loans, bridging, loan, for, buy]
+timestamp: 2026-11-02T14:51:55+00:00
 ---
 
-Bridge-to-let from £250,000: auction purchases, unmortgageable property and tight deadlines, refinanced onto a BTL mortgage once tenanted.
+Bridge to let loans from £250,000: a bridging loan to buy or refurbish an investment property, repaid by a buy-to-let mortgage. Fee-free on most cases.
 
 # Details
 
-- **Provider:** [Fox Davidson](/home.md), a UK mortgage and property finance broker (Bristol, Bath, Exeter and London).
-- **Concept type:** Service Page
+- **Provider:** [Fox Davidson](/home.md), a whole of market UK mortgage and property finance broker (Bristol, Bath, Exeter and London), FCA FRN 1056214.
+- **Concept type:** Service
 - **Live page:** <https://www.foxdavidson.co.uk/bridging-loans/bridging-loan-for-buy-to-let/>
-- **Part of:** [Bridging finance](/bridging-loans/overview.md)
+- **Part of:** [Bridging Loans & Bridging Finance UK | Fee-Free Brokers](/bridging-loans/overview.md)
 
 # Citations
 
-[1] [Bridging Loans for Buy-to-Let](https://www.foxdavidson.co.uk/bridging-loans/bridging-loan-for-buy-to-let/) - Fox Davidson
+[1] [Bridge To Let Loans UK | Fee-Free Bridging For Buy To Let](https://www.foxdavidson.co.uk/bridging-loans/bridging-loan-for-buy-to-let/) - Fox Davidson

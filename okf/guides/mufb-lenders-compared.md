@@ -1,21 +1,21 @@
 ---
-type: Finance Guide
-title: "MUFB Lenders Compared 2026: Criteria, LTV & Rates"
-description: "Compare specialist MUFB mortgage lenders by criteria, LTV, rates and valuation method. Fleet, Shawbrook, Landbay, Keystone & more compared."
+type: Article
+title: "MUFB and Portfolio Lenders Compared: October 2026 Criteria"
+description: "MUFB lenders compared from their own October 2026 guides: Fleet, Shawbrook, Landbay, Keystone, Foundation, Aldermore. LTV, units, ICR and rates."
 resource: https://www.foxdavidson.co.uk/2026/04/21/mufb-lenders-compared/
-tags: [guides, mufb, lenders, compared]
-timestamp: 2026-04-27T18:05:17+00:00
+tags: [mufb, lenders, compared]
+timestamp: 2026-10-27T17:29:57+00:00
 ---
 
-Compare specialist MUFB mortgage lenders by criteria, LTV, rates and valuation method. Fleet, Shawbrook, Landbay, Keystone & more compared.
+MUFB lenders compared from their own October 2026 guides: Fleet, Shawbrook, Landbay, Keystone, Foundation, Aldermore. LTV, units, ICR and rates.
 
 # Details
 
-- **Provider:** [Fox Davidson](/home.md), a UK mortgage and property finance broker (Bristol, Bath, Exeter and London).
-- **Concept type:** Finance Guide
+- **Provider:** [Fox Davidson](/home.md), a whole of market UK mortgage and property finance broker (Bristol, Bath, Exeter and London), FCA FRN 1056214.
+- **Concept type:** Article
 - **Live page:** <https://www.foxdavidson.co.uk/2026/04/21/mufb-lenders-compared/>
-- **Part of:** [Guides & insights](/guides/overview.md)
+- **Part of:** [Guides & insights](/guides/index.md)
 
 # Citations
 
-[1] [MUFB Lenders Compared 2026: Criteria, LTV & Rates](https://www.foxdavidson.co.uk/2026/04/21/mufb-lenders-compared/) - Fox Davidson
+[1] [MUFB and Portfolio Lenders Compared: October 2026 Criteria](https://www.foxdavidson.co.uk/2026/04/21/mufb-lenders-compared/) - Fox Davidson

@@ -1,21 +1,21 @@
 ---
 type: Case Study
-title: Offset Mortgage for First-Time Buyers
-description: "Fox Davidson has once again demonstrated its prowess by successfully assisting first-time buyers in securing an offset mortgage. The clients, self-employed with substantial tax savings earning minimal interest, sought a solution to minimise their mortgage payments."
+title: "Offset Mortgage for a First-Time Buyer in Reading"
+description: "A first-time buyer bought a £335,000 house in Reading with a £285,000 offset mortgage at 85% LTV, linked to £45,000 of savings."
 resource: https://www.foxdavidson.co.uk/case-studies/offset-mortgage-for-first-time-buyers/
-tags: [case-studies, offset, first, time, buyers]
-timestamp: 2026-04-27T18:36:56+00:00
+tags: [case, studies, offset, mortgage, for, first]
+timestamp: 2026-10-20T19:55:25+00:00
 ---
 
-Fox Davidson has once again demonstrated its prowess by successfully assisting first-time buyers in securing an offset mortgage. The clients, self-employed with substantial tax savings earning minimal interest, sought a solution to minimise their mortgage payments.
+A first-time buyer bought a £335,000 house in Reading with a £285,000 offset mortgage at 85% LTV, linked to £45,000 of savings.
 
 # Details
 
-- **Provider:** [Fox Davidson](/home.md), a UK mortgage and property finance broker (Bristol, Bath, Exeter and London).
+- **Provider:** [Fox Davidson](/home.md), a whole of market UK mortgage and property finance broker (Bristol, Bath, Exeter and London), FCA FRN 1056214.
 - **Concept type:** Case Study
 - **Live page:** <https://www.foxdavidson.co.uk/case-studies/offset-mortgage-for-first-time-buyers/>
-- **Part of:** [Case studies](/case-studies/overview.md)
+- **Part of:** [Mortgage Case Studies | Completed Deals](/case-studies/overview.md)
 
 # Citations
 
-[1] [Offset Mortgage for First-Time Buyers](https://www.foxdavidson.co.uk/case-studies/offset-mortgage-for-first-time-buyers/) - Fox Davidson
+[1] [Offset Mortgage for a First-Time Buyer in Reading](https://www.foxdavidson.co.uk/case-studies/offset-mortgage-for-first-time-buyers/) - Fox Davidson

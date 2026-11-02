@@ -1,21 +1,21 @@
 ---
-type: Location Page
-title: Bath Mortgage Broker 2026
-description: "Specialist Bath mortgage broker. Georgian listed property, Bath stone, conservation area, HNW Royal Crescent, BA1 2HA. From £250,000+. Hodge, Coutts."
+type: Location
+title: "Bath Mortgage Broker 2026 | Fox Davidson Specialist"
+description: "Whole of market Bath mortgage broker. Georgian listed homes, Bath stone, conservation areas and HNW purchases, BA1 2HA. From £250,000+."
 resource: https://www.foxdavidson.co.uk/locations/bath-mortgage-broker/
-tags: [locations, bath]
-timestamp: 2026-06-11T23:29:06+00:00
+tags: [locations, bath, mortgage, broker]
+timestamp: 2026-11-02T11:11:00+00:00
 ---
 
-Specialist Bath mortgage broker. Georgian listed property, Bath stone, conservation area, HNW Royal Crescent, BA1 2HA. From £250,000+. Hodge, Coutts.
+Whole of market Bath mortgage broker. Georgian listed homes, Bath stone, conservation areas and HNW purchases, BA1 2HA. From £250,000+.
 
 # Details
 
-- **Provider:** [Fox Davidson](/home.md), a UK mortgage and property finance broker (Bristol, Bath, Exeter and London).
-- **Concept type:** Location Page
+- **Provider:** [Fox Davidson](/home.md), a whole of market UK mortgage and property finance broker (Bristol, Bath, Exeter and London), FCA FRN 1056214.
+- **Concept type:** Location
 - **Live page:** <https://www.foxdavidson.co.uk/locations/bath-mortgage-broker/>
-- **Part of:** [Locations](/locations/overview.md)
+- **Part of:** [Mortgage Broker Locations: Bristol, Bath, London, Exeter](/locations/overview.md)
 
 # Citations
 
-[1] [Bath Mortgage Broker 2026](https://www.foxdavidson.co.uk/locations/bath-mortgage-broker/) - Fox Davidson
+[1] [Bath Mortgage Broker 2026 | Fox Davidson Specialist](https://www.foxdavidson.co.uk/locations/bath-mortgage-broker/) - Fox Davidson

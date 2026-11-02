@@ -1,21 +1,21 @@
 ---
-type: Service Page
-title: Development Exit Finance Brokers UK 2026
-description: "Development exit finance from £250,000 to £250m plus. Refinance off construction-rate pricing at PC, up to 75% LTV, 18-month terms, no broker fee."
+type: Service
+title: "Development Exit Finance UK | From 0.65% A Month"
+description: "Development exit finance from £250,000 to refinance maturing development debt. Funds released within 4 weeks, England, Scotland and Wales."
 resource: https://www.foxdavidson.co.uk/bridging-loans/development-exit-finance/
-tags: [bridging-loans, development, exit, finance]
-timestamp: 2026-06-10T05:08:57+00:00
+tags: [bridging, loans, development, exit, finance]
+timestamp: 2026-11-02T14:52:19+00:00
 ---
 
-Development exit finance from £250,000 to £250m plus. Refinance off construction-rate pricing at PC, up to 75% LTV, 18-month terms, no broker fee.
+Development exit finance from £250,000 to refinance maturing development debt. Funds released within 4 weeks, England, Scotland and Wales.
 
 # Details
 
-- **Provider:** [Fox Davidson](/home.md), a UK mortgage and property finance broker (Bristol, Bath, Exeter and London).
-- **Concept type:** Service Page
+- **Provider:** [Fox Davidson](/home.md), a whole of market UK mortgage and property finance broker (Bristol, Bath, Exeter and London), FCA FRN 1056214.
+- **Concept type:** Service
 - **Live page:** <https://www.foxdavidson.co.uk/bridging-loans/development-exit-finance/>
-- **Part of:** [Bridging finance](/bridging-loans/overview.md)
+- **Part of:** [Bridging Loans & Bridging Finance UK | Fee-Free Brokers](/bridging-loans/overview.md)
 
 # Citations
 
-[1] [Development Exit Finance Brokers UK 2026](https://www.foxdavidson.co.uk/bridging-loans/development-exit-finance/) - Fox Davidson
+[1] [Development Exit Finance UK | From 0.65% A Month](https://www.foxdavidson.co.uk/bridging-loans/development-exit-finance/) - Fox Davidson

@@ -1,21 +1,21 @@
 ---
-type: Service Page
-title: GP Surgery & Doctor Mortgages
-description: "Commercial mortgages for doctors and GP surgeries from £250,000. NHS income underwriting, notional rent, partner buy-ins. Up to 100% LTV."
+type: Service
+title: "Commercial Mortgage For Doctors | GP Surgery"
+description: "Fox Davidson arranges commercial mortgages for GPs, dentists and pharmacists buying surgery or practice premises. From £250,000. Fee-free"
 resource: https://www.foxdavidson.co.uk/commercial/commercial-mortgage-for-doctors/
-tags: [commercial, doctors]
-timestamp: 2026-06-11T15:11:07+00:00
+tags: [commercial, commercial, mortgage, for, doctors]
+timestamp: 2026-11-02T14:52:07+00:00
 ---
 
-Commercial mortgages for doctors and GP surgeries from £250,000. NHS income underwriting, notional rent, partner buy-ins. Up to 100% LTV.
+Fox Davidson arranges commercial mortgages for GPs, dentists and pharmacists buying surgery or practice premises. From £250,000. Fee-free
 
 # Details
 
-- **Provider:** [Fox Davidson](/home.md), a UK mortgage and property finance broker (Bristol, Bath, Exeter and London).
-- **Concept type:** Service Page
+- **Provider:** [Fox Davidson](/home.md), a whole of market UK mortgage and property finance broker (Bristol, Bath, Exeter and London), FCA FRN 1056214.
+- **Concept type:** Service
 - **Live page:** <https://www.foxdavidson.co.uk/commercial/commercial-mortgage-for-doctors/>
-- **Part of:** [Commercial mortgages](/commercial/overview.md)
+- **Part of:** [Commercial Mortgages UK | Fee-Free Commercial Brokers](/commercial/overview.md)
 
 # Citations
 
-[1] [GP Surgery & Doctor Mortgages](https://www.foxdavidson.co.uk/commercial/commercial-mortgage-for-doctors/) - Fox Davidson
+[1] [Commercial Mortgage For Doctors | GP Surgery](https://www.foxdavidson.co.uk/commercial/commercial-mortgage-for-doctors/) - Fox Davidson

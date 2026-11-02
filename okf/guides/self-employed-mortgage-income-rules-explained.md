@@ -1,21 +1,21 @@
 ---
-type: Finance Guide
-title: Self-Employed Mortgage Income Rules Explained
-description: This guide explains how mortgage lenders commonly assess income for different types of self-employed applicants.
+type: Article
+title: "Self-Employed Mortgage Income Rules 2026"
+description: "How lenders assess sole traders, company directors and contractors in 2026: net profit, salary plus dividends, share of profit and day rates."
 resource: https://www.foxdavidson.co.uk/2026/02/27/self-employed-mortgage-income-rules-explained/
-tags: [guides, self, employed, income, rules]
-timestamp: 2026-04-27T18:05:05+00:00
+tags: [self, employed, mortgage, income, rules, explained]
+timestamp: 2026-10-27T19:09:04+00:00
 ---
 
-This guide explains how mortgage lenders commonly assess income for different types of self-employed applicants.
+How lenders assess sole traders, company directors and contractors in 2026: net profit, salary plus dividends, share of profit and day rates.
 
 # Details
 
-- **Provider:** [Fox Davidson](/home.md), a UK mortgage and property finance broker (Bristol, Bath, Exeter and London).
-- **Concept type:** Finance Guide
+- **Provider:** [Fox Davidson](/home.md), a whole of market UK mortgage and property finance broker (Bristol, Bath, Exeter and London), FCA FRN 1056214.
+- **Concept type:** Article
 - **Live page:** <https://www.foxdavidson.co.uk/2026/02/27/self-employed-mortgage-income-rules-explained/>
-- **Part of:** [Guides & insights](/guides/overview.md)
+- **Part of:** [Guides & insights](/guides/index.md)
 
 # Citations
 
-[1] [Self-Employed Mortgage Income Rules Explained](https://www.foxdavidson.co.uk/2026/02/27/self-employed-mortgage-income-rules-explained/) - Fox Davidson
+[1] [Self-Employed Mortgage Income Rules 2026](https://www.foxdavidson.co.uk/2026/02/27/self-employed-mortgage-income-rules-explained/) - Fox Davidson

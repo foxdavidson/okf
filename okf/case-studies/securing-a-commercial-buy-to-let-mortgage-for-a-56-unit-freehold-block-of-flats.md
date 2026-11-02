@@ -1,20 +1,20 @@
 ---
 type: Case Study
-title: Mortgage for 56-Unit Freehold Block
-description: Fox Davidson work with property professionals including landlords and developers. Our area of expertise sometimes finds us securing funding on very large and complex types of property.
+title: "Mortgage for 56-Unit Freehold Block"
+description: "How we secured a commercial buy to let mortgage on a 56 unit freehold block of flats for a professional property investor."
 resource: https://www.foxdavidson.co.uk/case-studies/securing-a-commercial-buy-to-let-mortgage-for-a-56-unit-freehold-block-of-flats/
-tags: [case-studies, securing, commercial, buy, let]
-timestamp: 2026-04-27T18:58:07+00:00
+tags: [case, studies, securing, a, commercial, buy]
+timestamp: 2026-11-02T15:12:56+00:00
 ---
 
-Fox Davidson work with property professionals including landlords and developers. Our area of expertise sometimes finds us securing funding on very large and complex types of property.
+How we secured a commercial buy to let mortgage on a 56 unit freehold block of flats for a professional property investor.
 
 # Details
 
-- **Provider:** [Fox Davidson](/home.md), a UK mortgage and property finance broker (Bristol, Bath, Exeter and London).
+- **Provider:** [Fox Davidson](/home.md), a whole of market UK mortgage and property finance broker (Bristol, Bath, Exeter and London), FCA FRN 1056214.
 - **Concept type:** Case Study
 - **Live page:** <https://www.foxdavidson.co.uk/case-studies/securing-a-commercial-buy-to-let-mortgage-for-a-56-unit-freehold-block-of-flats/>
-- **Part of:** [Case studies](/case-studies/overview.md)
+- **Part of:** [Mortgage Case Studies | Completed Deals](/case-studies/overview.md)
 
 # Citations
 

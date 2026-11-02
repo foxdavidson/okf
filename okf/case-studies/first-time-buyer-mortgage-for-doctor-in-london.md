@@ -1,21 +1,21 @@
 ---
 type: Case Study
-title: High LTV Mortgage for Non-UK Doctor
-description: "Discover how Fox Davidson overcame the challenges of a non-UK national on a skilled work visa to secure a 90% loan-to-value mortgage for a hospital doctor's first home in London. Learn about our bespoke solutions for varied incomes and visa status."
+title: "90% Mortgage for a Junior Doctor in Camden"
+description: "A junior NHS doctor bought a £550,000 two-bed flat in Camden with a £495,000 mortgage at 90% LTV. How we found the lender."
 resource: https://www.foxdavidson.co.uk/case-studies/first-time-buyer-mortgage-for-doctor-in-london/
-tags: [case-studies, first, time, buyer, doctor]
-timestamp: 2026-04-29T18:21:57+00:00
+tags: [case, studies, first, time, buyer, mortgage]
+timestamp: 2026-10-27T20:00:32+00:00
 ---
 
-Discover how Fox Davidson overcame the challenges of a non-UK national on a skilled work visa to secure a 90% loan-to-value mortgage for a hospital doctor's first home in London. Learn about our bespoke solutions for varied incomes and visa status.
+A junior NHS doctor bought a £550,000 two-bed flat in Camden with a £495,000 mortgage at 90% LTV. How we found the lender.
 
 # Details
 
-- **Provider:** [Fox Davidson](/home.md), a UK mortgage and property finance broker (Bristol, Bath, Exeter and London).
+- **Provider:** [Fox Davidson](/home.md), a whole of market UK mortgage and property finance broker (Bristol, Bath, Exeter and London), FCA FRN 1056214.
 - **Concept type:** Case Study
 - **Live page:** <https://www.foxdavidson.co.uk/case-studies/first-time-buyer-mortgage-for-doctor-in-london/>
-- **Part of:** [Case studies](/case-studies/overview.md)
+- **Part of:** [Mortgage Case Studies | Completed Deals](/case-studies/overview.md)
 
 # Citations
 
-[1] [High LTV Mortgage for Non-UK Doctor](https://www.foxdavidson.co.uk/case-studies/first-time-buyer-mortgage-for-doctor-in-london/) - Fox Davidson
+[1] [90% Mortgage for a Junior Doctor in Camden](https://www.foxdavidson.co.uk/case-studies/first-time-buyer-mortgage-for-doctor-in-london/) - Fox Davidson

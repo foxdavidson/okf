@@ -1,21 +1,21 @@
 ---
-type: Finance Guide
-title: "Chelsea Property: Market and Mortgages"
-description: "Discover essential insights on the Chelsea real estate market, from analysis to mortgage solutions. Read on for expert guidance and practical tips."
+type: Article
+title: "Chelsea Property in 2026: Prices, Rents and Mortgages"
+description: "Chelsea property in 2026: Kensington and Chelsea prices down 13.8% to £1.20m, rents up 2.1% to £3,690 a month, and how to finance a prime purchase."
 resource: https://www.foxdavidson.co.uk/2026/03/12/chelsea-real-estate-essentials-from-market-analysis-to-mortgage-solutions/
-tags: [guides, chelsea, real, estate, essentials]
-timestamp: 2026-04-27T11:43:38+00:00
+tags: [chelsea, real, estate, essentials, from, market]
+timestamp: 2026-10-29T08:48:11+00:00
 ---
 
-Discover essential insights on the Chelsea real estate market, from analysis to mortgage solutions. Read on for expert guidance and practical tips.
+Chelsea property in 2026: Kensington and Chelsea prices down 13.8% to £1.20m, rents up 2.1% to £3,690 a month, and how to finance a prime purchase.
 
 # Details
 
-- **Provider:** [Fox Davidson](/home.md), a UK mortgage and property finance broker (Bristol, Bath, Exeter and London).
-- **Concept type:** Finance Guide
+- **Provider:** [Fox Davidson](/home.md), a whole of market UK mortgage and property finance broker (Bristol, Bath, Exeter and London), FCA FRN 1056214.
+- **Concept type:** Article
 - **Live page:** <https://www.foxdavidson.co.uk/2026/03/12/chelsea-real-estate-essentials-from-market-analysis-to-mortgage-solutions/>
-- **Part of:** [Guides & insights](/guides/overview.md)
+- **Part of:** [Guides & insights](/guides/index.md)
 
 # Citations
 
-[1] [Chelsea Property: Market and Mortgages](https://www.foxdavidson.co.uk/2026/03/12/chelsea-real-estate-essentials-from-market-analysis-to-mortgage-solutions/) - Fox Davidson
+[1] [Chelsea Property in 2026: Prices, Rents and Mortgages](https://www.foxdavidson.co.uk/2026/03/12/chelsea-real-estate-essentials-from-market-analysis-to-mortgage-solutions/) - Fox Davidson

@@ -1,20 +1,20 @@
 ---
-type: Finance Guide
-title: The 182 Night Rule for Holiday Lets in Wales
-description: The 182 night rule affecting holiday home owners in Wales and what it means. Contact a holiday let mortgage advisor today!
+type: Article
+title: "The 182 Night Rule for Holiday Lets in Wales"
+description: "The 182 night rule affecting holiday home owners in Wales and what it means. Contact a holiday let mortgage advisor today!"
 resource: https://www.foxdavidson.co.uk/2025/09/19/182-night-rule-holidat-let-mortgage-broker-in-wales/
-tags: [guides, 182, night, rule, holidat]
-timestamp: 2026-04-27T11:44:03+00:00
+tags: [night, rule, holidat, let, mortgage, broker]
+timestamp: 2026-10-20T19:24:03+00:00
 ---
 
 The 182 night rule affecting holiday home owners in Wales and what it means. Contact a holiday let mortgage advisor today!
 
 # Details
 
-- **Provider:** [Fox Davidson](/home.md), a UK mortgage and property finance broker (Bristol, Bath, Exeter and London).
-- **Concept type:** Finance Guide
+- **Provider:** [Fox Davidson](/home.md), a whole of market UK mortgage and property finance broker (Bristol, Bath, Exeter and London), FCA FRN 1056214.
+- **Concept type:** Article
 - **Live page:** <https://www.foxdavidson.co.uk/2025/09/19/182-night-rule-holidat-let-mortgage-broker-in-wales/>
-- **Part of:** [Guides & insights](/guides/overview.md)
+- **Part of:** [Guides & insights](/guides/index.md)
 
 # Citations
 

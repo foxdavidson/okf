@@ -1,20 +1,20 @@
 ---
 type: Case Study
 title: "20-Unit Freehold Block Mortgage, Birmingham"
-description: "Securing mortgages on complex property investments requires a certain level of expertise. At Fox Davidson, our recent achievement in securing a substantial buy-to-let mortgage for a professional property investor"
+description: "How we arranged a buy to let mortgage on a 20 unit freehold block of flats in Birmingham for a professional property investor."
 resource: https://www.foxdavidson.co.uk/case-studies/mortgage-for-20-unit-freehold-block-of-flats-in-birmingham/
-tags: [case-studies, 20, unit, freehold, block]
-timestamp: 2026-05-05T21:17:57+00:00
+tags: [case, studies, mortgage, for, unit, freehold]
+timestamp: 2026-10-20T19:24:30+00:00
 ---
 
-Securing mortgages on complex property investments requires a certain level of expertise. At Fox Davidson, our recent achievement in securing a substantial buy-to-let mortgage for a professional property investor
+How we arranged a buy to let mortgage on a 20 unit freehold block of flats in Birmingham for a professional property investor.
 
 # Details
 
-- **Provider:** [Fox Davidson](/home.md), a UK mortgage and property finance broker (Bristol, Bath, Exeter and London).
+- **Provider:** [Fox Davidson](/home.md), a whole of market UK mortgage and property finance broker (Bristol, Bath, Exeter and London), FCA FRN 1056214.
 - **Concept type:** Case Study
 - **Live page:** <https://www.foxdavidson.co.uk/case-studies/mortgage-for-20-unit-freehold-block-of-flats-in-birmingham/>
-- **Part of:** [Case studies](/case-studies/overview.md)
+- **Part of:** [Mortgage Case Studies | Completed Deals](/case-studies/overview.md)
 
 # Citations
 

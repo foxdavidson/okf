@@ -1,19 +1,20 @@
 ---
-type: Service Page
-title: UK Property Investment Mortgages | HNW Investor Hub
-description: "Strategic HNW property investor finance UK. BTL, Hol let, HMO, MUFB, Commercial, Bridging, Dev finance. Portfolio structuring for exit/sucession."
+type: Service
+title: "UK Property Investment Mortgages | HNW Investor Hub"
+description: "Whole of market property investment finance for HNW investors: buy to let, holiday let, HMO, MUFB, commercial, bridging and development finance."
 resource: https://www.foxdavidson.co.uk/property-investment-mortgages/
-tags: [property, investment]
-timestamp: 2026-06-11T16:53:50+00:00
+tags: [property, investment, mortgages]
+timestamp: 2026-11-02T15:09:47+00:00
 ---
 
-Strategic HNW property investor finance UK. BTL, Hol let, HMO, MUFB, Commercial, Bridging, Dev finance. Portfolio structuring for exit/sucession.
+Whole of market property investment finance for HNW investors: buy to let, holiday let, HMO, MUFB, commercial, bridging and development finance.
 
 # Details
 
-- **Provider:** [Fox Davidson](/home.md), a UK mortgage and property finance broker (Bristol, Bath, Exeter and London).
-- **Concept type:** Service Page
+- **Provider:** [Fox Davidson](/home.md), a whole of market UK mortgage and property finance broker (Bristol, Bath, Exeter and London), FCA FRN 1056214.
+- **Concept type:** Service
 - **Live page:** <https://www.foxdavidson.co.uk/property-investment-mortgages/>
+- **Part of:** [Fox Davidson](/home.md)
 
 # Citations
 

@@ -3,18 +3,18 @@ type: Case Study
 title: "Serviced Accommodation BTL Mortgage, Cheddar"
 description: "A Bristol-based portfolio landlord expanded into short-term lettings with a £425,000 period property near Cheddar Gorge."
 resource: https://www.foxdavidson.co.uk/case-studies/buy-to-let-mortgage-for-serviced-accommodation-in-cheddar/
-tags: [case-studies, buy, let, serviced, accommodation]
-timestamp: 2026-04-29T18:16:00+00:00
+tags: [case, studies, buy, to, let, mortgage]
+timestamp: 2026-10-20T20:15:36+00:00
 ---
 
 A Bristol-based portfolio landlord expanded into short-term lettings with a £425,000 period property near Cheddar Gorge.
 
 # Details
 
-- **Provider:** [Fox Davidson](/home.md), a UK mortgage and property finance broker (Bristol, Bath, Exeter and London).
+- **Provider:** [Fox Davidson](/home.md), a whole of market UK mortgage and property finance broker (Bristol, Bath, Exeter and London), FCA FRN 1056214.
 - **Concept type:** Case Study
 - **Live page:** <https://www.foxdavidson.co.uk/case-studies/buy-to-let-mortgage-for-serviced-accommodation-in-cheddar/>
-- **Part of:** [Case studies](/case-studies/overview.md)
+- **Part of:** [Mortgage Case Studies | Completed Deals](/case-studies/overview.md)
 
 # Citations
 

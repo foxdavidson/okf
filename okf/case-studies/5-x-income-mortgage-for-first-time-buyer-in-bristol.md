@@ -1,20 +1,20 @@
 ---
 type: Case Study
 title: "5x Income First-Time Buyer Mortgage, Bristol"
-description: "A first time buyer in Bristol had found Fox Davidson on the internet after searching for 5 x income mortgages in Bristol. The client was a single applicant, first time buyer needing a mortgage of 5 x their annual salary."
+description: "How we arranged a 5x income mortgage for a single first time buyer in Bristol, using a professional lender scheme to stretch affordability."
 resource: https://www.foxdavidson.co.uk/case-studies/5-x-income-mortgage-for-first-time-buyer-in-bristol/
-tags: [case-studies, 5, x, income, first]
-timestamp: 2026-04-27T17:02:48+00:00
+tags: [case, studies, x, income, mortgage, for]
+timestamp: 2026-10-20T20:15:44+00:00
 ---
 
-A first time buyer in Bristol had found Fox Davidson on the internet after searching for 5 x income mortgages in Bristol. The client was a single applicant, first time buyer needing a mortgage of 5 x their annual salary.
+How we arranged a 5x income mortgage for a single first time buyer in Bristol, using a professional lender scheme to stretch affordability.
 
 # Details
 
-- **Provider:** [Fox Davidson](/home.md), a UK mortgage and property finance broker (Bristol, Bath, Exeter and London).
+- **Provider:** [Fox Davidson](/home.md), a whole of market UK mortgage and property finance broker (Bristol, Bath, Exeter and London), FCA FRN 1056214.
 - **Concept type:** Case Study
 - **Live page:** <https://www.foxdavidson.co.uk/case-studies/5-x-income-mortgage-for-first-time-buyer-in-bristol/>
-- **Part of:** [Case studies](/case-studies/overview.md)
+- **Part of:** [Mortgage Case Studies | Completed Deals](/case-studies/overview.md)
 
 # Citations
 

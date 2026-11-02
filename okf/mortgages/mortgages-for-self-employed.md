@@ -1,21 +1,21 @@
 ---
-type: Service Page
-title: Self-Employed Mortgages UK 2026 | Lenders & Rates
-description: "Self-employed mortgages from £250,000. Limited company, sole trader, contractor income. Retained profit assessment. Specialist lenders, 1-year accounts."
+type: Service
+title: "Self-Employed Mortgages UK: 1 Year Accounts Considered"
+description: "Whole of market self-employed mortgage broker. 1 or 2 years' accounts, 5.5 to 6.5 times income from £60,000, for sole traders, partners and directors."
 resource: https://www.foxdavidson.co.uk/mortgages/mortgages-for-self-employed/
-tags: [mortgages, self, employed]
-timestamp: 2026-06-11T23:27:40+00:00
+tags: [mortgages, mortgages, for, self, employed]
+timestamp: 2026-11-02T11:19:49+00:00
 ---
 
-Self-employed mortgages from £250,000. Limited company, sole trader, contractor income. Retained profit assessment. Specialist lenders, 1-year accounts.
+Whole of market self-employed mortgage broker. 1 or 2 years' accounts, 5.5 to 6.5 times income from £60,000, for sole traders, partners and directors.
 
 # Details
 
-- **Provider:** [Fox Davidson](/home.md), a UK mortgage and property finance broker (Bristol, Bath, Exeter and London).
-- **Concept type:** Service Page
+- **Provider:** [Fox Davidson](/home.md), a whole of market UK mortgage and property finance broker (Bristol, Bath, Exeter and London), FCA FRN 1056214.
+- **Concept type:** Service
 - **Live page:** <https://www.foxdavidson.co.uk/mortgages/mortgages-for-self-employed/>
-- **Part of:** [Residential mortgages](/mortgages/overview.md)
+- **Part of:** [UK Residential Mortgages | Specialist Broker](/mortgages/overview.md)
 
 # Citations
 
-[1] [Self-Employed Mortgages UK 2026 | Lenders & Rates](https://www.foxdavidson.co.uk/mortgages/mortgages-for-self-employed/) - Fox Davidson
+[1] [Self-Employed Mortgages UK: 1 Year Accounts Considered](https://www.foxdavidson.co.uk/mortgages/mortgages-for-self-employed/) - Fox Davidson

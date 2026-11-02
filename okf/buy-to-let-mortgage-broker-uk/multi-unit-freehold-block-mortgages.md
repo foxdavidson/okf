@@ -1,21 +1,21 @@
 ---
-type: Service Page
-title: Multi Unit Freehold Block (MUFB) Mortgages UK 2026
-description: "Specialist MUFB mortgages from £250k. Whole of Market Broker. Block vs aggregate valuation, conversion finance, SSAS MUFB handled."
+type: Service
+title: "MUFB Mortgages: Multi-Unit Freehold Block Lenders UK"
+description: "MUFB mortgages for blocks of 3 to 10 flats on one freehold title. What lenders need, unit size and experience rules, and October 2026 rates from 5.09%."
 resource: https://www.foxdavidson.co.uk/buy-to-let-mortgage-broker-uk/multi-unit-freehold-block-mortgages/
-tags: [buy-to-let, multi, unit, freehold, block]
-timestamp: 2026-06-11T23:43:03+00:00
+tags: [buy, to, let, mortgage, broker, uk]
+timestamp: 2026-11-02T11:04:46+00:00
 ---
 
-Specialist MUFB mortgages from £250k. Whole of Market Broker. Block vs aggregate valuation, conversion finance, SSAS MUFB handled.
+MUFB mortgages for blocks of 3 to 10 flats on one freehold title. What lenders need, unit size and experience rules, and October 2026 rates from 5.09%.
 
 # Details
 
-- **Provider:** [Fox Davidson](/home.md), a UK mortgage and property finance broker (Bristol, Bath, Exeter and London).
-- **Concept type:** Service Page
+- **Provider:** [Fox Davidson](/home.md), a whole of market UK mortgage and property finance broker (Bristol, Bath, Exeter and London), FCA FRN 1056214.
+- **Concept type:** Service
 - **Live page:** <https://www.foxdavidson.co.uk/buy-to-let-mortgage-broker-uk/multi-unit-freehold-block-mortgages/>
-- **Part of:** [Buy to let & investment](/buy-to-let-mortgage-broker-uk/overview.md)
+- **Part of:** [Buy to Let Mortgage Broker UK: Portfolio, HMO, Ltd Co, MUFB](/buy-to-let-mortgage-broker-uk/overview.md)
 
 # Citations
 
-[1] [Multi Unit Freehold Block (MUFB) Mortgages UK 2026](https://www.foxdavidson.co.uk/buy-to-let-mortgage-broker-uk/multi-unit-freehold-block-mortgages/) - Fox Davidson
+[1] [MUFB Mortgages: Multi-Unit Freehold Block Lenders UK](https://www.foxdavidson.co.uk/buy-to-let-mortgage-broker-uk/multi-unit-freehold-block-mortgages/) - Fox Davidson

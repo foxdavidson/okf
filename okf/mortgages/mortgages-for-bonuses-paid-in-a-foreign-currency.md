@@ -1,21 +1,21 @@
 ---
-type: Service Page
-title: Mortgages for Bonuses Paid in Foreign Currency
-description: "Fox Davidson arrange mortgages for clients with foreign currency bonuses. USD, EUR, AED, CHF. FX haircut guidance, 2-year averaging, and specialist lender access to £10m."
+type: Service
+title: "Mortgages for Foreign Currency Bonuses"
+description: "Mortgages using foreign currency bonuses. USD, EUR, AED and CHF income, FX haircuts, two year averaging and specialist lenders to £10m."
 resource: https://www.foxdavidson.co.uk/mortgages/mortgages-for-bonuses-paid-in-a-foreign-currency/
-tags: [mortgages, bonuses, paid, foreign, currency]
-timestamp: 2026-06-11T23:30:09+00:00
+tags: [mortgages, mortgages, for, bonuses, paid, in]
+timestamp: 2026-11-02T11:19:32+00:00
 ---
 
-Fox Davidson arrange mortgages for clients with foreign currency bonuses. USD, EUR, AED, CHF. FX haircut guidance, 2-year averaging, and specialist lender access to £10m.
+Mortgages using foreign currency bonuses. USD, EUR, AED and CHF income, FX haircuts, two year averaging and specialist lenders to £10m.
 
 # Details
 
-- **Provider:** [Fox Davidson](/home.md), a UK mortgage and property finance broker (Bristol, Bath, Exeter and London).
-- **Concept type:** Service Page
+- **Provider:** [Fox Davidson](/home.md), a whole of market UK mortgage and property finance broker (Bristol, Bath, Exeter and London), FCA FRN 1056214.
+- **Concept type:** Service
 - **Live page:** <https://www.foxdavidson.co.uk/mortgages/mortgages-for-bonuses-paid-in-a-foreign-currency/>
-- **Part of:** [Residential mortgages](/mortgages/overview.md)
+- **Part of:** [UK Residential Mortgages | Specialist Broker](/mortgages/overview.md)
 
 # Citations
 
-[1] [Mortgages for Bonuses Paid in Foreign Currency](https://www.foxdavidson.co.uk/mortgages/mortgages-for-bonuses-paid-in-a-foreign-currency/) - Fox Davidson
+[1] [Mortgages for Foreign Currency Bonuses](https://www.foxdavidson.co.uk/mortgages/mortgages-for-bonuses-paid-in-a-foreign-currency/) - Fox Davidson

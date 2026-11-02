@@ -1,20 +1,20 @@
 ---
 type: Case Study
-title: Mortgage for Morgan Stanley Banker
-description: ox Davidson recently secured a large loan for an investment banker who required a flexible mortgage and from a lender that would look at their wider net assets position including vesting stock.
+title: "Mortgage for Morgan Stanley Banker"
+description: "How we secured a large, flexible mortgage for a Morgan Stanley investment banker, assessed on wider net assets including vesting stock."
 resource: https://www.foxdavidson.co.uk/case-studies/mortgage-for-morgan-stanley-employee/
-tags: [case-studies, morgan, stanley, employee]
-timestamp: 2026-05-05T21:26:42+00:00
+tags: [case, studies, mortgage, for, morgan, stanley]
+timestamp: 2026-10-20T19:24:31+00:00
 ---
 
-ox Davidson recently secured a large loan for an investment banker who required a flexible mortgage and from a lender that would look at their wider net assets position including vesting stock.
+How we secured a large, flexible mortgage for a Morgan Stanley investment banker, assessed on wider net assets including vesting stock.
 
 # Details
 
-- **Provider:** [Fox Davidson](/home.md), a UK mortgage and property finance broker (Bristol, Bath, Exeter and London).
+- **Provider:** [Fox Davidson](/home.md), a whole of market UK mortgage and property finance broker (Bristol, Bath, Exeter and London), FCA FRN 1056214.
 - **Concept type:** Case Study
 - **Live page:** <https://www.foxdavidson.co.uk/case-studies/mortgage-for-morgan-stanley-employee/>
-- **Part of:** [Case studies](/case-studies/overview.md)
+- **Part of:** [Mortgage Case Studies | Completed Deals](/case-studies/overview.md)
 
 # Citations
 

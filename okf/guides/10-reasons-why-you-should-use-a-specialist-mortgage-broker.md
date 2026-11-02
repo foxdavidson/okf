@@ -1,21 +1,21 @@
 ---
-type: Finance Guide
-title: Why You Should Use a Specialist Mortgage Broker
-description: Discover the top 10 benefits of using a specialist mortgage broker today. UK Award Winning Mortgage Brokers. Call us now.
+type: Article
+title: "10 Reasons to Use a Specialist Mortgage Broker in 2026"
+description: "10 reasons to use a specialist mortgage broker in 2026: lender access, complex income, structuring and credit protection. Our broker fee is £495."
 resource: https://www.foxdavidson.co.uk/2026/01/13/10-reasons-why-you-should-use-a-specialist-mortgage-broker/
-tags: [guides, 10, reasons, why, should]
-timestamp: 2026-04-27T11:51:48+00:00
+tags: [reasons, why, you, should, use, a]
+timestamp: 2026-11-02T15:16:39+00:00
 ---
 
-Discover the top 10 benefits of using a specialist mortgage broker today. UK Award Winning Mortgage Brokers. Call us now.
+10 reasons to use a specialist mortgage broker in 2026: lender access, complex income, structuring and credit protection. Our broker fee is £495.
 
 # Details
 
-- **Provider:** [Fox Davidson](/home.md), a UK mortgage and property finance broker (Bristol, Bath, Exeter and London).
-- **Concept type:** Finance Guide
+- **Provider:** [Fox Davidson](/home.md), a whole of market UK mortgage and property finance broker (Bristol, Bath, Exeter and London), FCA FRN 1056214.
+- **Concept type:** Article
 - **Live page:** <https://www.foxdavidson.co.uk/2026/01/13/10-reasons-why-you-should-use-a-specialist-mortgage-broker/>
-- **Part of:** [Guides & insights](/guides/overview.md)
+- **Part of:** [Guides & insights](/guides/index.md)
 
 # Citations
 
-[1] [Why You Should Use a Specialist Mortgage Broker](https://www.foxdavidson.co.uk/2026/01/13/10-reasons-why-you-should-use-a-specialist-mortgage-broker/) - Fox Davidson
+[1] [10 Reasons to Use a Specialist Mortgage Broker in 2026](https://www.foxdavidson.co.uk/2026/01/13/10-reasons-why-you-should-use-a-specialist-mortgage-broker/) - Fox Davidson

@@ -1,20 +1,20 @@
 ---
 type: Case Study
 title: "£725k MUFB Block of Flats Mortgage, Exeter"
-description: Obtaining a mortgage on a freehold block of flats can sometimes be very complex. Our experienced team have built relationships with many lenders who will lend in these complicated scenarios. Contact us today to find out more.
+description: "How we arranged a mortgage on a freehold block of flats in Exeter, working with lenders comfortable with multi unit freehold security."
 resource: https://www.foxdavidson.co.uk/case-studies/multi-unit-freehold-flats-mortgage-exeter/
-tags: [case-studies, multi, unit, freehold, flats]
-timestamp: 2026-05-07T08:12:29+00:00
+tags: [case, studies, multi, unit, freehold, flats]
+timestamp: 2026-10-20T20:15:43+00:00
 ---
 
-Obtaining a mortgage on a freehold block of flats can sometimes be very complex. Our experienced team have built relationships with many lenders who will lend in these complicated scenarios. Contact us today to find out more.
+How we arranged a mortgage on a freehold block of flats in Exeter, working with lenders comfortable with multi unit freehold security.
 
 # Details
 
-- **Provider:** [Fox Davidson](/home.md), a UK mortgage and property finance broker (Bristol, Bath, Exeter and London).
+- **Provider:** [Fox Davidson](/home.md), a whole of market UK mortgage and property finance broker (Bristol, Bath, Exeter and London), FCA FRN 1056214.
 - **Concept type:** Case Study
 - **Live page:** <https://www.foxdavidson.co.uk/case-studies/multi-unit-freehold-flats-mortgage-exeter/>
-- **Part of:** [Case studies](/case-studies/overview.md)
+- **Part of:** [Mortgage Case Studies | Completed Deals](/case-studies/overview.md)
 
 # Citations
 

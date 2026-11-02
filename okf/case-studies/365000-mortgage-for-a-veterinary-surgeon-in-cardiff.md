@@ -1,20 +1,20 @@
 ---
 type: Case Study
-title: £365k Mortgage for a Vet in Cardiff
-description: Fox Davidson were contacted by a customer that needed two mortgages. They were buying a property to live in but also wanted to keep their existing property and switch it to a buy to let mortgage.
+title: "£365k Mortgage for a Vet in Cardiff"
+description: "How we arranged a £365,000 residential mortgage and a let to buy remortgage for a veterinary surgeon relocating in Cardiff."
 resource: https://www.foxdavidson.co.uk/case-studies/365000-mortgage-for-a-veterinary-surgeon-in-cardiff/
-tags: [case-studies, 365000, veterinary, surgeon, cardiff]
-timestamp: 2026-04-27T17:02:36+00:00
+tags: [case, studies, mortgage, for, a, veterinary]
+timestamp: 2026-10-27T20:00:33+00:00
 ---
 
-Fox Davidson were contacted by a customer that needed two mortgages. They were buying a property to live in but also wanted to keep their existing property and switch it to a buy to let mortgage.
+How we arranged a £365,000 residential mortgage and a let to buy remortgage for a veterinary surgeon relocating in Cardiff.
 
 # Details
 
-- **Provider:** [Fox Davidson](/home.md), a UK mortgage and property finance broker (Bristol, Bath, Exeter and London).
+- **Provider:** [Fox Davidson](/home.md), a whole of market UK mortgage and property finance broker (Bristol, Bath, Exeter and London), FCA FRN 1056214.
 - **Concept type:** Case Study
 - **Live page:** <https://www.foxdavidson.co.uk/case-studies/365000-mortgage-for-a-veterinary-surgeon-in-cardiff/>
-- **Part of:** [Case studies](/case-studies/overview.md)
+- **Part of:** [Mortgage Case Studies | Completed Deals](/case-studies/overview.md)
 
 # Citations
 

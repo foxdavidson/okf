@@ -1,21 +1,21 @@
 ---
-type: Finance Guide
-title: Why Are Millionaires Leaving the UK?
-description: Why Are Millionaires Leaving the UK? Exploring the Trends and Reasons. Our latest blog looks at why millionaires are leaving the UK.
+type: Article
+title: "Why Are Millionaires Leaving the UK? 2026 Data and Tax"
+description: "What the 2026 data shows on wealthy people leaving the UK: non-dom abolition, CGT, inheritance tax, HMRC figures and where they are moving."
 resource: https://www.foxdavidson.co.uk/2025/08/30/why-are-millionaires-leaving-the-uk/
-tags: [guides, why, are, millionaires, leaving]
-timestamp: 2026-04-15T14:07:31+00:00
+tags: [why, are, millionaires, leaving, the, uk]
+timestamp: 2026-10-29T08:46:57+00:00
 ---
 
-Why Are Millionaires Leaving the UK? Exploring the Trends and Reasons. Our latest blog looks at why millionaires are leaving the UK.
+What the 2026 data shows on wealthy people leaving the UK: non-dom abolition, CGT, inheritance tax, HMRC figures and where they are moving.
 
 # Details
 
-- **Provider:** [Fox Davidson](/home.md), a UK mortgage and property finance broker (Bristol, Bath, Exeter and London).
-- **Concept type:** Finance Guide
+- **Provider:** [Fox Davidson](/home.md), a whole of market UK mortgage and property finance broker (Bristol, Bath, Exeter and London), FCA FRN 1056214.
+- **Concept type:** Article
 - **Live page:** <https://www.foxdavidson.co.uk/2025/08/30/why-are-millionaires-leaving-the-uk/>
-- **Part of:** [Guides & insights](/guides/overview.md)
+- **Part of:** [Guides & insights](/guides/index.md)
 
 # Citations
 
-[1] [Why Are Millionaires Leaving the UK?](https://www.foxdavidson.co.uk/2025/08/30/why-are-millionaires-leaving-the-uk/) - Fox Davidson
+[1] [Why Are Millionaires Leaving the UK? 2026 Data and Tax](https://www.foxdavidson.co.uk/2025/08/30/why-are-millionaires-leaving-the-uk/) - Fox Davidson

@@ -1,21 +1,21 @@
 ---
 type: Calculator
-title: Commercial Mortgage Calculator UK
-description: "Free commercial mortgage calculator: maximum borrowing for investment property (DSCR) and trading businesses (EBITDA), plus repayments. UK 2026."
+title: "Commercial & Business Mortgage Calculator UK | Free DSCR Tool"
+description: "Free commercial mortgage calculator. Variable rates from around 1.2% over base, fixed rates priced at application. DSCR stress tested, no signup."
 resource: https://www.foxdavidson.co.uk/calculators/commercial-mortgage-calculator/
-tags: [calculators, commercial, calculator]
-timestamp: 2026-06-11T18:57:59+00:00
+tags: [calculators, commercial, mortgage, calculator]
+timestamp: 2026-11-02T14:52:06+00:00
 ---
 
-Free commercial mortgage calculator: maximum borrowing for investment property (DSCR) and trading businesses (EBITDA), plus repayments. UK 2026.
+Free commercial mortgage calculator. Variable rates from around 1.2% over base, fixed rates priced at application. DSCR stress tested, no signup.
 
 # Details
 
-- **Provider:** [Fox Davidson](/home.md), a UK mortgage and property finance broker (Bristol, Bath, Exeter and London).
+- **Provider:** [Fox Davidson](/home.md), a whole of market UK mortgage and property finance broker (Bristol, Bath, Exeter and London), FCA FRN 1056214.
 - **Concept type:** Calculator
 - **Live page:** <https://www.foxdavidson.co.uk/calculators/commercial-mortgage-calculator/>
-- **Part of:** [Calculators & tools](/calculators/overview.md)
+- **Part of:** [UK Mortgage and Stamp Duty Calculators](/calculators/overview.md)
 
 # Citations
 
-[1] [Commercial Mortgage Calculator UK](https://www.foxdavidson.co.uk/calculators/commercial-mortgage-calculator/) - Fox Davidson
+[1] [Commercial & Business Mortgage Calculator UK | Free DSCR Tool](https://www.foxdavidson.co.uk/calculators/commercial-mortgage-calculator/) - Fox Davidson

@@ -1,21 +1,21 @@
 ---
 type: Case Study
-title: Second Home Mortgage in Cornwall
-description: Expert Uk brokers securing second home mortgage in Cornwall. Contact South Werst brokers Fox Davidson today!
+title: "£1.95m Second Home Mortgage in Padstow, Cornwall"
+description: "How we arranged a £1.95m second home mortgage on a £4m coastal estate in Padstow at 49% LTV for a UK-resident foreign national."
 resource: https://www.foxdavidson.co.uk/case-studies/second-home-mortgage-in-cornwall/
-tags: [case-studies, second, home, cornwall]
-timestamp: 2026-04-29T18:19:03+00:00
+tags: [case, studies, second, home, mortgage, in]
+timestamp: 2026-10-20T19:24:15+00:00
 ---
 
-Expert Uk brokers securing second home mortgage in Cornwall. Contact South Werst brokers Fox Davidson today!
+How we arranged a £1.95m second home mortgage on a £4m coastal estate in Padstow at 49% LTV for a UK-resident foreign national.
 
 # Details
 
-- **Provider:** [Fox Davidson](/home.md), a UK mortgage and property finance broker (Bristol, Bath, Exeter and London).
+- **Provider:** [Fox Davidson](/home.md), a whole of market UK mortgage and property finance broker (Bristol, Bath, Exeter and London), FCA FRN 1056214.
 - **Concept type:** Case Study
 - **Live page:** <https://www.foxdavidson.co.uk/case-studies/second-home-mortgage-in-cornwall/>
-- **Part of:** [Case studies](/case-studies/overview.md)
+- **Part of:** [Mortgage Case Studies | Completed Deals](/case-studies/overview.md)
 
 # Citations
 
-[1] [Second Home Mortgage in Cornwall](https://www.foxdavidson.co.uk/case-studies/second-home-mortgage-in-cornwall/) - Fox Davidson
+[1] [£1.95m Second Home Mortgage in Padstow, Cornwall](https://www.foxdavidson.co.uk/case-studies/second-home-mortgage-in-cornwall/) - Fox Davidson

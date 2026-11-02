@@ -1,19 +1,20 @@
 ---
 type: Topic
-title: Large Loans and HNW
-description: "Articles on large and high net worth mortgages,  private bank lending, complex income assessment, RSU and bonus income, and £1m+ structures."
+title: "Large Loans and HNW"
+description: "Articles on large and high net worth mortgages , private bank lending, complex income assessment, RSU and bonus income, and £1m+ structures."
 resource: https://www.foxdavidson.co.uk/category/large-loans-and-hnw/
-tags: [topics, large, loans, hnw]
-timestamp: 2026-05-07T08:22:06+00:00
+tags: [category, large, loans, and, hnw]
+timestamp: 2026-11-02T00:00:00+00:00
 ---
 
-Articles on large and high net worth mortgages,  private bank lending, complex income assessment, RSU and bonus income, and £1m+ structures.
+Articles on large and high net worth mortgages , private bank lending, complex income assessment, RSU and bonus income, and £1m+ structures.
 
 # Details
 
-- **Provider:** [Fox Davidson](/home.md), a UK mortgage and property finance broker (Bristol, Bath, Exeter and London).
+- **Provider:** [Fox Davidson](/home.md), a whole of market UK mortgage and property finance broker (Bristol, Bath, Exeter and London), FCA FRN 1056214.
 - **Concept type:** Topic
 - **Live page:** <https://www.foxdavidson.co.uk/category/large-loans-and-hnw/>
+- **Part of:** [Topics](/topics/index.md)
 
 # Citations
 

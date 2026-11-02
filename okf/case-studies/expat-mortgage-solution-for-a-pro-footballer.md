@@ -1,21 +1,21 @@
 ---
 type: Case Study
-title: Expat Private Bank Mortgage for English Professional Footballer
-description: Discover how Fox Davidson provided a tailored a Private Bank Mortgage for English Professional Footballer living in Spain. Contact us today!
+title: "£4.5m Expat Mortgage for a Footballer in Cheshire"
+description: "How we arranged a £4.5m mortgage on a £6.5m Cheshire home at 69% LTV for a professional footballer based overseas."
 resource: https://www.foxdavidson.co.uk/case-studies/expat-mortgage-solution-for-a-pro-footballer/
-tags: [case-studies, expat, solution, pro, footballer]
-timestamp: 2026-04-27T17:02:27+00:00
+tags: [case, studies, expat, mortgage, solution, for]
+timestamp: 2026-10-20T19:24:40+00:00
 ---
 
-Discover how Fox Davidson provided a tailored a Private Bank Mortgage for English Professional Footballer living in Spain. Contact us today!
+How we arranged a £4.5m mortgage on a £6.5m Cheshire home at 69% LTV for a professional footballer based overseas.
 
 # Details
 
-- **Provider:** [Fox Davidson](/home.md), a UK mortgage and property finance broker (Bristol, Bath, Exeter and London).
+- **Provider:** [Fox Davidson](/home.md), a whole of market UK mortgage and property finance broker (Bristol, Bath, Exeter and London), FCA FRN 1056214.
 - **Concept type:** Case Study
 - **Live page:** <https://www.foxdavidson.co.uk/case-studies/expat-mortgage-solution-for-a-pro-footballer/>
-- **Part of:** [Case studies](/case-studies/overview.md)
+- **Part of:** [Mortgage Case Studies | Completed Deals](/case-studies/overview.md)
 
 # Citations
 
-[1] [Expat Private Bank Mortgage for English Professional Footballer](https://www.foxdavidson.co.uk/case-studies/expat-mortgage-solution-for-a-pro-footballer/) - Fox Davidson
+[1] [£4.5m Expat Mortgage for a Footballer in Cheshire](https://www.foxdavidson.co.uk/case-studies/expat-mortgage-solution-for-a-pro-footballer/) - Fox Davidson

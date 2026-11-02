@@ -1,20 +1,20 @@
 ---
 type: Case Study
-title: Offset Mortgage for a Company Director
-description: "Our client had some surplus cash from a divorce settlement and they wanted to use this in the future to invest in a buy-to-let portfolio. They wanted to take their time looking at buy-to-let properties, so were ideally looking for an offset mortgage to enable them to purchase a new main residence and use the offset facility to make this as efficient as possible."
+title: "Offset Mortgage for a Company Director"
+description: "How an offset mortgage let a company director hold divorce settlement funds against their home loan while planning a buy to let portfolio."
 resource: https://www.foxdavidson.co.uk/case-studies/offset-mortgage-for-limited-company-director/
-tags: [case-studies, offset, limited, company, director]
-timestamp: 2026-04-27T16:39:28+00:00
+tags: [case, studies, offset, mortgage, for, limited]
+timestamp: 2026-10-20T20:15:41+00:00
 ---
 
-Our client had some surplus cash from a divorce settlement and they wanted to use this in the future to invest in a buy-to-let portfolio. They wanted to take their time looking at buy-to-let properties, so were ideally looking for an offset mortgage to enable them to purchase a new main residence and use the offset facility to make this as efficient as possible.
+How an offset mortgage let a company director hold divorce settlement funds against their home loan while planning a buy to let portfolio.
 
 # Details
 
-- **Provider:** [Fox Davidson](/home.md), a UK mortgage and property finance broker (Bristol, Bath, Exeter and London).
+- **Provider:** [Fox Davidson](/home.md), a whole of market UK mortgage and property finance broker (Bristol, Bath, Exeter and London), FCA FRN 1056214.
 - **Concept type:** Case Study
 - **Live page:** <https://www.foxdavidson.co.uk/case-studies/offset-mortgage-for-limited-company-director/>
-- **Part of:** [Case studies](/case-studies/overview.md)
+- **Part of:** [Mortgage Case Studies | Completed Deals](/case-studies/overview.md)
 
 # Citations
 

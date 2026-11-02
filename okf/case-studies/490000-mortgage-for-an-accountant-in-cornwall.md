@@ -1,20 +1,20 @@
 ---
 type: Case Study
 title: "£490k Mortgage for an Accountant, Cornwall"
-description: "Our client ran a successful accountancy firm in the south west. Their accounts showed good profits, but our client’s drawings were minimal. We needed a lender that would lend based on company net profit plus salary rather than dividends and salary."
+description: "How we secured a £490,000 mortgage for a Cornwall accountancy firm owner, using salary plus retained company profit rather than dividends."
 resource: https://www.foxdavidson.co.uk/case-studies/490000-mortgage-for-an-accountant-in-cornwall/
-tags: [case-studies, 490000, accountant, cornwall]
-timestamp: 2026-05-07T08:11:03+00:00
+tags: [case, studies, mortgage, for, an, accountant]
+timestamp: 2026-10-27T20:00:33+00:00
 ---
 
-Our client ran a successful accountancy firm in the south west. Their accounts showed good profits, but our client’s drawings were minimal. We needed a lender that would lend based on company net profit plus salary rather than dividends and salary.
+How we secured a £490,000 mortgage for a Cornwall accountancy firm owner, using salary plus retained company profit rather than dividends.
 
 # Details
 
-- **Provider:** [Fox Davidson](/home.md), a UK mortgage and property finance broker (Bristol, Bath, Exeter and London).
+- **Provider:** [Fox Davidson](/home.md), a whole of market UK mortgage and property finance broker (Bristol, Bath, Exeter and London), FCA FRN 1056214.
 - **Concept type:** Case Study
 - **Live page:** <https://www.foxdavidson.co.uk/case-studies/490000-mortgage-for-an-accountant-in-cornwall/>
-- **Part of:** [Case studies](/case-studies/overview.md)
+- **Part of:** [Mortgage Case Studies | Completed Deals](/case-studies/overview.md)
 
 # Citations
 

@@ -1,21 +1,21 @@
 ---
 type: Case Study
-title: holiday let mortgage in Suffolk
-description: "A First-Time Landlord Was Looking for A Holiday Let Mortgage for a 7-Bed Property in Felixstowe, Suffolk. Award-Winning Holiday Let Mortgage Broker in the UK."
+title: "£750k Holiday Let Mortgage in Aldeburgh, Suffolk"
+description: "A first-time landlord bought a £1.05m seven-bed holiday let in Aldeburgh with a £750,000 mortgage at 71% LTV. How we did it."
 resource: https://www.foxdavidson.co.uk/case-studies/holiday-let-mortgage-suffolk-first-time-landlord/
-tags: [case-studies, holiday, let, suffolk, first]
-timestamp: 2026-04-27T16:38:51+00:00
+tags: [case, studies, holiday, let, mortgage, suffolk]
+timestamp: 2026-10-20T19:24:57+00:00
 ---
 
-A First-Time Landlord Was Looking for A Holiday Let Mortgage for a 7-Bed Property in Felixstowe, Suffolk. Award-Winning Holiday Let Mortgage Broker in the UK.
+A first-time landlord bought a £1.05m seven-bed holiday let in Aldeburgh with a £750,000 mortgage at 71% LTV. How we did it.
 
 # Details
 
-- **Provider:** [Fox Davidson](/home.md), a UK mortgage and property finance broker (Bristol, Bath, Exeter and London).
+- **Provider:** [Fox Davidson](/home.md), a whole of market UK mortgage and property finance broker (Bristol, Bath, Exeter and London), FCA FRN 1056214.
 - **Concept type:** Case Study
 - **Live page:** <https://www.foxdavidson.co.uk/case-studies/holiday-let-mortgage-suffolk-first-time-landlord/>
-- **Part of:** [Case studies](/case-studies/overview.md)
+- **Part of:** [Mortgage Case Studies | Completed Deals](/case-studies/overview.md)
 
 # Citations
 
-[1] [holiday let mortgage in Suffolk](https://www.foxdavidson.co.uk/case-studies/holiday-let-mortgage-suffolk-first-time-landlord/) - Fox Davidson
+[1] [£750k Holiday Let Mortgage in Aldeburgh, Suffolk](https://www.foxdavidson.co.uk/case-studies/holiday-let-mortgage-suffolk-first-time-landlord/) - Fox Davidson

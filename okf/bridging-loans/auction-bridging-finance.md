@@ -1,21 +1,21 @@
 ---
-type: Service Page
-title: Auction Bridging Finance UK 2026
-description: "Auction bridging loans from £250,000. Complete within 28 days. No broker fees. Access to market lenders across England, Scotland and Wales"
+type: Service
+title: "Auction Finance & Auction Bridging Loans UK | Fee-Free"
+description: "Auction finance and auction bridging loans from £250,000. Complete inside the 28-day deadline, no broker fees, England, Scotland and Wales."
 resource: https://www.foxdavidson.co.uk/bridging-loans/auction-bridging-finance/
-tags: [bridging-loans, auction, bridging, finance]
-timestamp: 2026-06-10T05:15:23+00:00
+tags: [bridging, loans, auction, bridging, finance]
+timestamp: 2026-11-02T14:51:53+00:00
 ---
 
-Auction bridging loans from £250,000. Complete within 28 days. No broker fees. Access to market lenders across England, Scotland and Wales
+Auction finance and auction bridging loans from £250,000. Complete inside the 28-day deadline, no broker fees, England, Scotland and Wales.
 
 # Details
 
-- **Provider:** [Fox Davidson](/home.md), a UK mortgage and property finance broker (Bristol, Bath, Exeter and London).
-- **Concept type:** Service Page
+- **Provider:** [Fox Davidson](/home.md), a whole of market UK mortgage and property finance broker (Bristol, Bath, Exeter and London), FCA FRN 1056214.
+- **Concept type:** Service
 - **Live page:** <https://www.foxdavidson.co.uk/bridging-loans/auction-bridging-finance/>
-- **Part of:** [Bridging finance](/bridging-loans/overview.md)
+- **Part of:** [Bridging Loans & Bridging Finance UK | Fee-Free Brokers](/bridging-loans/overview.md)
 
 # Citations
 
-[1] [Auction Bridging Finance UK 2026](https://www.foxdavidson.co.uk/bridging-loans/auction-bridging-finance/) - Fox Davidson
+[1] [Auction Finance & Auction Bridging Loans UK | Fee-Free](https://www.foxdavidson.co.uk/bridging-loans/auction-bridging-finance/) - Fox Davidson

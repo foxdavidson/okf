@@ -1,20 +1,20 @@
 ---
-type: Service Page
-title: Large Commercial Mortgages | From £1m
-description: "Large commercial mortgages from £1m to £250m+. Offices, industrial, retail and portfolios. Clearing banks to debt funds, up to 80% LTV."
+type: Service
+title: "Large Commercial Mortgages | From £1m"
+description: "Finance large commercial property from £1,000,000. We arrange specialist lending for offices, industrial estates, retail parks, and mixed-use. No fee."
 resource: https://www.foxdavidson.co.uk/commercial/large-commercial-mortgages/
-tags: [commercial, large]
-timestamp: 2026-06-11T19:01:58+00:00
+tags: [commercial, large, commercial, mortgages]
+timestamp: 2026-11-02T14:52:11+00:00
 ---
 
-Large commercial mortgages from £1m to £250m+. Offices, industrial, retail and portfolios. Clearing banks to debt funds, up to 80% LTV.
+Finance large commercial property from £1,000,000. We arrange specialist lending for offices, industrial estates, retail parks, and mixed-use. No fee.
 
 # Details
 
-- **Provider:** [Fox Davidson](/home.md), a UK mortgage and property finance broker (Bristol, Bath, Exeter and London).
-- **Concept type:** Service Page
+- **Provider:** [Fox Davidson](/home.md), a whole of market UK mortgage and property finance broker (Bristol, Bath, Exeter and London), FCA FRN 1056214.
+- **Concept type:** Service
 - **Live page:** <https://www.foxdavidson.co.uk/commercial/large-commercial-mortgages/>
-- **Part of:** [Commercial mortgages](/commercial/overview.md)
+- **Part of:** [Commercial Mortgages UK | Fee-Free Commercial Brokers](/commercial/overview.md)
 
 # Citations
 

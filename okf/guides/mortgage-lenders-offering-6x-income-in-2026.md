@@ -1,21 +1,21 @@
 ---
-type: Finance Guide
-title: Top Mortgage Lenders Offering 6x Income for First-Time Buyers
-description: Discover top mortgage lenders offering up to 6x income for first-time buyers. Specialist 6 x income mortgage broker.
+type: Article
+title: "6x Income Mortgage Lenders: Updated October 2026"
+description: "Which UK lenders offer 6x income or more in October 2026? HSBC, NatWest, Nationwide, Barclays, Skipton, April and more, with minimum incomes checked."
 resource: https://www.foxdavidson.co.uk/2026/01/21/mortgage-lenders-offering-6x-income-in-2026/
-tags: [guides, lenders, offering, 6x, income]
-timestamp: 2026-04-27T11:43:47+00:00
+tags: [mortgage, lenders, offering, 6x, income, in]
+timestamp: 2026-10-29T10:16:21+00:00
 ---
 
-Discover top mortgage lenders offering up to 6x income for first-time buyers. Specialist 6 x income mortgage broker.
+Which UK lenders offer 6x income or more in October 2026? HSBC, NatWest, Nationwide, Barclays, Skipton, April and more, with minimum incomes checked.
 
 # Details
 
-- **Provider:** [Fox Davidson](/home.md), a UK mortgage and property finance broker (Bristol, Bath, Exeter and London).
-- **Concept type:** Finance Guide
+- **Provider:** [Fox Davidson](/home.md), a whole of market UK mortgage and property finance broker (Bristol, Bath, Exeter and London), FCA FRN 1056214.
+- **Concept type:** Article
 - **Live page:** <https://www.foxdavidson.co.uk/2026/01/21/mortgage-lenders-offering-6x-income-in-2026/>
-- **Part of:** [Guides & insights](/guides/overview.md)
+- **Part of:** [Guides & insights](/guides/index.md)
 
 # Citations
 
-[1] [Top Mortgage Lenders Offering 6x Income for First-Time Buyers](https://www.foxdavidson.co.uk/2026/01/21/mortgage-lenders-offering-6x-income-in-2026/) - Fox Davidson
+[1] [6x Income Mortgage Lenders: Updated October 2026](https://www.foxdavidson.co.uk/2026/01/21/mortgage-lenders-offering-6x-income-in-2026/) - Fox Davidson

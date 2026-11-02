@@ -1,0 +1,54 @@
+---
+type: Service Hub
+title: "UK Mortgage for US Citizens: Lenders, Deposits and SDLT"
+description: "Yes, Americans can get a UK mortgage, usually with a 25% deposit. Lenders that accept US persons, FATCA, the 2% and 5% stamp duty surcharges, from £250k."
+resource: https://www.foxdavidson.co.uk/large-mortgages/uk-mortgages-for-americans/
+tags: [large, mortgages, uk, mortgages, for, americans]
+timestamp: 2026-11-02T11:07:58+00:00
+---
+
+Yes, Americans can get a UK mortgage, usually with a 25% deposit. Lenders that accept US persons, FATCA, the 2% and 5% stamp duty surcharges, from £250k.
+
+# Details
+
+- **Provider:** [Fox Davidson](/home.md), a whole of market UK mortgage and property finance broker (Bristol, Bath, Exeter and London), FCA FRN 1056214.
+- **Concept type:** Service Hub
+- **Live page:** <https://www.foxdavidson.co.uk/large-mortgages/uk-mortgages-for-americans/>
+- **Part of:** [Large Mortgages UK: £1m to £50m+ Specialist Broker](/large-mortgages/overview.md)
+
+# In this section
+
+* [Buy to Let Mortgage Non Resident UK: Guide for US Buyers](/large-mortgages/uk-mortgages-for-americans/buy-to-let.md) - 125% to 145% rental cover, 25% to 40% deposit: how US residents get a UK buy-to-let mortgage, lenders, stamp duty and the Non-Resident Landlord Scheme.
+* [Buying a House in England: The Process for Americans](/large-mortgages/uk-mortgages-for-americans/buying-a-house-in-england-process.md) - About 5 months from offer to keys, and nothing is binding until exchange. How buying a house in England works for Americans used to escrow, with costs.
+* [Buying a Second Home in the UK as an American: Costs](/large-mortgages/uk-mortgages-for-americans/second-home-in-the-uk.md) - £293,750 stamp duty on a £2m UK second home for a US buyer: how Americans finance a London pied-a-terre or country house, lenders, council tax and letting.
+* [Buying Property in London as an American: Mortgages, Costs](/large-mortgages/uk-mortgages-for-americans/london.md) - A US buyer keeping a US home pays £483,750 stamp duty on a £3m London house. Mortgages, deposits and closing costs for Americans, from £250,000.
+* [Buying UK Property Through a Company, LLC or Trust](/large-mortgages/uk-mortgages-for-americans/trusts-llcs-and-companies.md) - 17% stamp duty and £4,600 to £303,450 a year in ATED: what changes when Americans buy UK property through an LLC, trust or company, and which lenders lend.
+* [Can Americans Buy Property in Scotland? LBTT, ADS, Mortgages](/large-mortgages/uk-mortgages-for-americans/edinburgh-and-scotland.md) - Yes. A £2.5m Edinburgh house costs a US buyer £258,350 in LBTT, or £458,350 with the 8% ADS if they keep a US home. Rates, process and mortgages.
+* [Can an American Buy Property in the UK? 2026 Answer](/large-mortgages/uk-mortgages-for-americans/can-americans-buy-property-in-the-uk.md) - Yes. Americans can buy UK property with no visa. Buying gives no residency. A US resident pays £483,750 stamp duty on £3m if keeping a US home. Full costs.
+* [Cotswolds Houses for Sale: Mortgages for American Buyers](/large-mortgages/uk-mortgages-for-americans/cotswolds-oxfordshire-bath.md) - A £3m Cotswold house costs a US buyer up to £483,750 in stamp duty. Prices, full buying costs and how lenders treat listed, thatched and holiday-let homes.
+* [English Country House for Sale? Mortgages for US Buyers](/large-mortgages/uk-mortgages-for-americans/country-houses-and-estates.md) - At £2m+, most lenders lend on the house and grounds, not the farmland. How acreage, listing, horses and let cottages change a country house mortgage.
+* [FATCA and UK Mortgages: What US Citizens Need in 2026](/large-mortgages/uk-mortgages-for-americans/fatca-and-uk-mortgages.md) - 1 form and 1 number: UK lenders ask US persons for a self-certification or W-9 and a US TIN. How FATCA affects UK mortgages, FBAR and which banks lend.
+* [Foreign Currency Mortgage: GBP or USD for UK Property?](/large-mortgages/uk-mortgages-for-americans/gbp-or-usd-mortgage.md) - A $0.20 move in the pound changes a £2.5m loan's interest by $22,500 a year. How Americans choose between a sterling and a dollar mortgage in the UK.
+* [Foreign Income Mortgage UK: How Lenders Convert US Dollars](/large-mortgages/uk-mortgages-for-americans/usd-income.md) - Most UK lenders cut US dollar income by 10% to 25% before applying 5.5 to 6.5 times income. See the haircut by lender and a worked $760,000 example.
+* [Hampstead and Notting Hill Homes for Americans: Mortgages](/large-mortgages/uk-mortgages-for-americans/notting-hill-hampstead-st-johns-wood.md) - Terraced houses average £2.3m to £4.3m in Hampstead, Notting Hill and St John's Wood. Mortgages and closing costs for relocating American families.
+* [Interest Only Mortgage UK for Americans: Deposits and LTV](/large-mortgages/uk-mortgages-for-americans/deposit-ltv-and-minimum-loan.md) - US residents usually need a 25% to 40% deposit for a UK mortgage. LTV by profile, 5.5 to 6.5 times income, minimum loans and a worked £4m example.
+* [Kensington and Chelsea Mortgages for US Buyers: 2026 Guide](/large-mortgages/uk-mortgages-for-americans/kensington-and-chelsea.md) - £483,750 stamp duty on a £3m Chelsea house if you keep a US home. Prices, closing costs and mortgages for Americans buying in Kensington and Chelsea.
+* [London Property Market 2026: Americans Buying Prime London](/large-mortgages/uk-mortgages-for-americans/americans-buying-prime-london-2026.md) - US buyers took 30% of £15m-plus prime London sales in H1 2026. Prices, US buyer share and what the 2026 data means for your mortgage, with sources.
+* [Mayfair Mortgages for Americans: Belgravia, Knightsbridge](/large-mortgages/uk-mortgages-for-americans/mayfair-belgravia-knightsbridge.md) - US buyers made up 30% of £15m-plus prime London sales in H1 2026. Private bank mortgages, estate leases and stamp duty for Americans buying in Mayfair.
+* [Mortgage for US Citizen Living in UK: Lenders and FATCA](/large-mortgages/uk-mortgages-for-americans/us-citizens-living-in-the-uk.md) - Americans in the UK can borrow up to 85% LTV on a visa with HSBC, more with ILR. Why some banks refuse US citizens, how USD bonus and RSUs count.
+* [Mortgage Without Indefinite Leave to Remain: US Guide](/large-mortgages/uk-mortgages-for-americans/uk-mortgage-visas-and-ilr.md) - Up to 85% LTV without ILR: how Americans on Skilled Worker, Global Talent and intra-company visas get a UK mortgage, lender rules and 2026 ILR proposals.
+* [Mortgage Without UK Credit History: A Guide for Americans](/large-mortgages/uk-mortgages-for-americans/uk-mortgage-without-uk-credit-history.md) - 0 UK credit history is not a bar. Lenders can use your US credit report, bank statements and income. How Americans get a UK mortgage and build a UK file.
+* [Moving to London from the US: Mortgages for Your Home](/large-mortgages/uk-mortgages-for-americans/relocating-to-the-uk.md) - 25% to 40% deposit and 5.5x to 6.5x income: how Americans moving to London get a mortgage, rent or buy first, visas, and stamp duty refunds after the move.
+* [Non-Resident Stamp Duty for US Buyers: 2% and 5% Explained](/large-mortgages/uk-mortgages-for-americans/stamp-duty-for-us-buyers.md) - A US resident pays £333,750 stamp duty on a £3m home, or £483,750 if they keep a US home. Worked tables at £2m to £10m, refunds and company rates.
+* [Remortgage UK Property Living Abroad: Guide for Americans](/large-mortgages/uk-mortgages-for-americans/remortgage.md) - 6 months before your fix ends is when to start: how Americans remortgage UK property, including after moving back to the US, consent to let and FATCA.
+* [Securities-Backed Lending Mortgage for US Buyers in the UK](/large-mortgages/uk-mortgages-for-americans/securities-backed-lending.md) - Up to about 50% indicative LTV against listed investments. How Americans use a US portfolio to fund a UK home deposit or a private bank mortgage.
+* [Surrey Houses for Sale: Mortgages for American Families](/large-mortgages/uk-mortgages-for-americans/surrey.md) - We arranged £3.25m at 72% LTV for a US citizen in Virginia Water before they moved. Surrey prices, stamp duty and which lenders take US pay at £2m to £6m.
+* [UK Banks That Accept US Citizens for Mortgages in 2026](/large-mortgages/uk-mortgages-for-americans/private-banks-that-lend-to-americans.md) - Five UK lenders with published evidence of lending to US persons or US residents, from £75,000 income and 75% LTV. Minimum loans, FATCA and assets.
+* [UK Inheritance Tax for Americans: The US-UK Estate Treaty](/large-mortgages/uk-mortgages-for-americans/uk-inheritance-tax-for-americans.md) - 40% above £325,000: UK inheritance tax applies to UK property whoever owns it. How the US-UK estate tax treaty and a mortgage affect Americans. Info only.
+* [UK Mortgage for US Residents: Lenders, LTV and Costs 2026](/large-mortgages/uk-mortgages-for-americans/us-residents.md) - US residents can get a UK mortgage with a 25% deposit. HSBC asks non-residents for £75,000 income. Lenders, USD haircuts and stamp duty, from £250,000.
+* [US Citizen Dual Citizenship UK: Mortgages and Stamp Duty](/large-mortgages/uk-mortgages-for-americans/dual-us-uk-citizens.md) - Yes, you can be a US and UK citizen. A British passport removes visa rules but not FATCA or the 2% stamp duty surcharge. Mortgages from £250,000.
+* [US Tax on UK Property: Interest, Rent, Sale and FX Gains](/large-mortgages/uk-mortgages-for-americans/us-tax-on-uk-property.md) - $750,000 is the US home loan interest debt cap, and a sterling loan can create a taxable FX gain. US tax on UK property for Americans. Information only.
+
+# Citations
+
+[1] [UK Mortgage for US Citizens: Lenders, Deposits and SDLT](https://www.foxdavidson.co.uk/large-mortgages/uk-mortgages-for-americans/) - Fox Davidson

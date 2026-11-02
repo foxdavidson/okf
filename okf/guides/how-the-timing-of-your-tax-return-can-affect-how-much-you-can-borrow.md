@@ -1,21 +1,21 @@
 ---
-type: Finance Guide
-title: How Your Tax Return Affects Borrowing
-description: "When your tax return is submitted, and which tax year lenders use, can have a direct impact on how much you’re able to borrow."
+type: Article
+title: "Tax Return Timing and Your Mortgage: 2025/26 Guide"
+description: "Your 2025/26 tax return is due by 31 January 2027. If your profits rose, filing early lets lenders use the higher figure. Here is how timing works."
 resource: https://www.foxdavidson.co.uk/2026/01/12/how-the-timing-of-your-tax-return-can-affect-how-much-you-can-borrow/
-tags: [guides, how, timing, tax, return]
-timestamp: 2026-04-27T11:51:44+00:00
+tags: [how, the, timing, of, your, tax]
+timestamp: 2026-10-27T19:08:42+00:00
 ---
 
-When your tax return is submitted, and which tax year lenders use, can have a direct impact on how much you’re able to borrow.
+Your 2025/26 tax return is due by 31 January 2027. If your profits rose, filing early lets lenders use the higher figure. Here is how timing works.
 
 # Details
 
-- **Provider:** [Fox Davidson](/home.md), a UK mortgage and property finance broker (Bristol, Bath, Exeter and London).
-- **Concept type:** Finance Guide
+- **Provider:** [Fox Davidson](/home.md), a whole of market UK mortgage and property finance broker (Bristol, Bath, Exeter and London), FCA FRN 1056214.
+- **Concept type:** Article
 - **Live page:** <https://www.foxdavidson.co.uk/2026/01/12/how-the-timing-of-your-tax-return-can-affect-how-much-you-can-borrow/>
-- **Part of:** [Guides & insights](/guides/overview.md)
+- **Part of:** [Guides & insights](/guides/index.md)
 
 # Citations
 
-[1] [How Your Tax Return Affects Borrowing](https://www.foxdavidson.co.uk/2026/01/12/how-the-timing-of-your-tax-return-can-affect-how-much-you-can-borrow/) - Fox Davidson
+[1] [Tax Return Timing and Your Mortgage: 2025/26 Guide](https://www.foxdavidson.co.uk/2026/01/12/how-the-timing-of-your-tax-return-can-affect-how-much-you-can-borrow/) - Fox Davidson

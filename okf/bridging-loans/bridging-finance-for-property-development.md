@@ -1,21 +1,21 @@
 ---
-type: Service Page
-title: Bridging Finance for Property Development
-description: "Development bridging from £250,000: site acquisition, planning and Gateway 2 holds, refurbishment and development exit. From 0.55% per month."
+type: Service
+title: "Bridging Finance For Property Development UK 2026"
+description: "Bridging finance for UK property developers: site acquisition, planning and Gateway 2 hold, refurbishment, and development exit. From £250,000."
 resource: https://www.foxdavidson.co.uk/bridging-loans/bridging-finance-for-property-development/
-tags: [bridging-loans, bridging, finance, property, development]
-timestamp: 2026-06-11T19:02:03+00:00
+tags: [bridging, loans, bridging, finance, for, property]
+timestamp: 2026-11-02T15:07:05+00:00
 ---
 
-Development bridging from £250,000: site acquisition, planning and Gateway 2 holds, refurbishment and development exit. From 0.55% per month.
+Bridging finance for UK property developers: site acquisition, planning and Gateway 2 hold, refurbishment, and development exit. From £250,000.
 
 # Details
 
-- **Provider:** [Fox Davidson](/home.md), a UK mortgage and property finance broker (Bristol, Bath, Exeter and London).
-- **Concept type:** Service Page
+- **Provider:** [Fox Davidson](/home.md), a whole of market UK mortgage and property finance broker (Bristol, Bath, Exeter and London), FCA FRN 1056214.
+- **Concept type:** Service
 - **Live page:** <https://www.foxdavidson.co.uk/bridging-loans/bridging-finance-for-property-development/>
-- **Part of:** [Bridging finance](/bridging-loans/overview.md)
+- **Part of:** [Bridging Loans & Bridging Finance UK | Fee-Free Brokers](/bridging-loans/overview.md)
 
 # Citations
 
-[1] [Bridging Finance for Property Development](https://www.foxdavidson.co.uk/bridging-loans/bridging-finance-for-property-development/) - Fox Davidson
+[1] [Bridging Finance For Property Development UK 2026](https://www.foxdavidson.co.uk/bridging-loans/bridging-finance-for-property-development/) - Fox Davidson

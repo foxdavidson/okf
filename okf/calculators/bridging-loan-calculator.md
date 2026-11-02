@@ -1,21 +1,21 @@
 ---
 type: Calculator
-title: Bridging Loan Calculator UK 2026 | Cost & HNW Term
-description: "Free UK bridging loan calculator. Rolled-up, retained or serviced interest, LTV, fees and a month-by-month breakdown, HNW check - MCOB 3A 60-month term."
+title: "Free Bridging Loan Calculator UK | Instant Cost Breakdown"
+description: "Calculate UK bridging loan costs instantly: rolled-up, retained or serviced interest. October 2026 rates from about 0.55% a month. Worked examples, no signup."
 resource: https://www.foxdavidson.co.uk/calculators/bridging-loan-calculator/
 tags: [calculators, bridging, loan, calculator]
-timestamp: 2026-06-15T20:22:56+00:00
+timestamp: 2026-11-02T14:51:52+00:00
 ---
 
-Free UK bridging loan calculator. Rolled-up, retained or serviced interest, LTV, fees and a month-by-month breakdown, HNW check - MCOB 3A 60-month term.
+Calculate UK bridging loan costs instantly: rolled-up, retained or serviced interest. October 2026 rates from about 0.55% a month. Worked examples, no signup.
 
 # Details
 
-- **Provider:** [Fox Davidson](/home.md), a UK mortgage and property finance broker (Bristol, Bath, Exeter and London).
+- **Provider:** [Fox Davidson](/home.md), a whole of market UK mortgage and property finance broker (Bristol, Bath, Exeter and London), FCA FRN 1056214.
 - **Concept type:** Calculator
 - **Live page:** <https://www.foxdavidson.co.uk/calculators/bridging-loan-calculator/>
-- **Part of:** [Calculators & tools](/calculators/overview.md)
+- **Part of:** [UK Mortgage and Stamp Duty Calculators](/calculators/overview.md)
 
 # Citations
 
-[1] [Bridging Loan Calculator UK 2026 | Cost & HNW Term](https://www.foxdavidson.co.uk/calculators/bridging-loan-calculator/) - Fox Davidson
+[1] [Free Bridging Loan Calculator UK | Instant Cost Breakdown](https://www.foxdavidson.co.uk/calculators/bridging-loan-calculator/) - Fox Davidson

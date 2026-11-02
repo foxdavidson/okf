@@ -1,20 +1,20 @@
 ---
-type: Service Page
-title: Non-Standard Property Mortgages UK 2026
-description: "UK non-standard construction mortgages from £250,000. Listed, thatched, timber-frame, flat-roof, ex-LA high-rise, large acreage. Whole of Market brokers."
+type: Service
+title: "Non-Standard Property Mortgages UK 2026"
+description: "UK non-standard construction mortgages from £250,000. Listed, thatched, timber-frame, flat-roof, ex-LA high-rise, large acreage. Whole of market brokers."
 resource: https://www.foxdavidson.co.uk/mortgages/non-standard-and-complex-property-mortgages/
-tags: [mortgages, non, standard, complex, property]
-timestamp: 2026-06-11T23:27:44+00:00
+tags: [mortgages, non, standard, and, complex, property]
+timestamp: 2026-11-02T11:19:55+00:00
 ---
 
-UK non-standard construction mortgages from £250,000. Listed, thatched, timber-frame, flat-roof, ex-LA high-rise, large acreage. Whole of Market brokers.
+UK non-standard construction mortgages from £250,000. Listed, thatched, timber-frame, flat-roof, ex-LA high-rise, large acreage. Whole of market brokers.
 
 # Details
 
-- **Provider:** [Fox Davidson](/home.md), a UK mortgage and property finance broker (Bristol, Bath, Exeter and London).
-- **Concept type:** Service Page
+- **Provider:** [Fox Davidson](/home.md), a whole of market UK mortgage and property finance broker (Bristol, Bath, Exeter and London), FCA FRN 1056214.
+- **Concept type:** Service
 - **Live page:** <https://www.foxdavidson.co.uk/mortgages/non-standard-and-complex-property-mortgages/>
-- **Part of:** [Residential mortgages](/mortgages/overview.md)
+- **Part of:** [UK Residential Mortgages | Specialist Broker](/mortgages/overview.md)
 
 # Citations
 
